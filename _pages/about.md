@@ -8,4 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Wufan Zhao is now an assistant Professor at , Hong Kong University of Science and Technology, Guangzhou, China.
+Wufan Zhao is now an assistant Professor at  Hong Kong University of Science and Technology, Guangzhou, China.
+
+Research Interests
+======
+Large Language Model, 2D/3D vision (Graph Convolution, Transformer), the 5th multimedia processing (cross-modal data processing), geometric deep learning, 3D point cloud/mesh processing, and computer-aided design.
