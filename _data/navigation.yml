@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Professions"
-    url: /talks/
+    url: /professions/
 
   - title: "Research"
-    url: /talks/
+    url: /research/
 
   - title: "Publications"
     url: /publications/
@@ -13,4 +13,4 @@ main:
     url: /teaching/
 
   - title: "Group"
-    url: /talks/
+    url: /group/
