@@ -13,8 +13,8 @@ Develop artificial intelligent methods for information extraction from multi-sou
 
 Awards
 ======
-* University of Twente  UTwente ITC Ph.D. Publication Award, 2022
-* China Scholarship Council  CSC Scholarship, 2018-2022
+*   UTwente ITC Ph.D. Publication Award, 2022
+*   CSC Scholarship, 2018-2022
 
 
 
