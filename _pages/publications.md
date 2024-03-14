@@ -1,16 +1,13 @@
 ---
 layout: archive
-title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
+Publication
+======
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+2023
+-----
+Vectorizing planar roof structure from very high resolution remote sensing images using transformer. **Wufan Zhao**, Claudio Persello, Xianwei Lv, Alfred Stein, Maarten Vergauwen.  
+*International Journal of Digital Earth, 2024.*
