@@ -26,5 +26,5 @@ Research Interests
 
 News
 ======
-* Undergraduate students /postgraduate students are welcomed to apply for the RedBird MPhil of HKUST-gz, and RA/PhD positions in my Lab.
-* Postdoc position are open. Very competitive salary and research fund package. Welcome to drop your resume and research proposal.
+* Undergraduate students/ postgraduate students are welcomed to apply for the RedBird MPhil of HKUST-gz, and RA/PhD positions in my Lab.
+* Postdoc positions are open. Very competitive salary and research fund package. Welcome to drop your resume and research proposal.

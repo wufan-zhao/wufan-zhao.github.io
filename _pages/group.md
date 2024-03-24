@@ -21,9 +21,7 @@ Lab's Events
 ---
 
 ***About***
-
 The AI4City Academic Lecture Series aims to help our students stay connected with researchers in related fields. At the same time, we also hope to be at the cutting edge of AI and Earth observation and make key contributions to solving practical urban problems, as well as facilitating technology transfer. We encourage the scientific community and the general public interested in these topics to join our hybrid seminars. If you are interested in attending a particular seminar, please send an email to ai4city.hkust@outlook.com with the title of the talk as the subject.
-
 We look forward to meeting you soon!
 
 ***Future event***
@@ -33,22 +31,26 @@ Coming soon!
 Current Members
 ---
 ***Ph.D. students***
-* **Tongyan Hua** (from Sep. 2024), MSc from TU Delft and Leiden University, Research fields: 3D city reconstruction, NeRF and SLAM.
-* **Shuai Zhang** (from Sep. 2024), MSc from Sun Yat-sen University. Research fields: Point cloud processing and foundation model.
-* **[Liang Zeng (co-supervisor)](https://iiw.kuleuven.be/onderzoek/geomatics/people/00159796)** (since Oct. 2022), MSc from TU Delft. Research fields: Self-supervised learning, computer vision, multi-modal remote sensing processing.
-* **[Suzanna Cuypers (co-supervisor)](https://iiw.kuleuven.be/onderzoek/geomatics/people/00130472)** (since Oct. 2022), MSc from KU Leuven. Research fields: Deep leanrning for remote sensing image analysis, land use classification.
+* **Tongyan Hua** (from Sep. 2024), MSc from TU Delft and Leiden University.\\
+Research fields: 3D city reconstruction, NeRF and SLAM.
+* **Shuai Zhang** (from Sep. 2024), MSc from Sun Yat-sen University.\\
+ Research fields: Point cloud processing and foundation model.
+* **[Liang Zeng (co-supervisor)](https://iiw.kuleuven.be/onderzoek/geomatics/people/00159796)** (since Oct. 2022), MSc from TU Delft.\\
+Research fields: Self-supervised learning, computer vision, multi-modal remote sensing processing.
+* **[Suzanna Cuypers (co-supervisor)](https://iiw.kuleuven.be/onderzoek/geomatics/people/00130472)** (since Oct. 2022), MSc from KU Leuven.\\
+Research fields: Deep leanrning for remote sensing image analysis, land use classification.
 
 ***M.Phil. students***
 <!-- * **Wenshuo Chao**, undergraduate from HKUST. -->
 
 ***Visiting Scholars***
-* **[Jin Huang](https://yidahuang.github.io/)** (since Jan. 2024), PhD candidate at TUDelft 3D Geoinformation Group.
+* **[Jin Huang](https://yidahuang.github.io/)** (since Jan. 2024), PhD candidate at TUDelft 3D Geoinformation Group.\\
 Research fields: 3D city reconstruction, computer graphics.
-* **[Cai Wu](https://www.linkedin.com/in/cai-wu-4b2a4889)** (since Mar. 2024), PhD candidate at ITC University of Twente.
+* **[Cai Wu](https://www.linkedin.com/in/cai-wu-4b2a4889)** (since Mar. 2024), PhD candidate at ITC University of Twente.\\
 Research fields: GIS, urban morphological and urban design.
-* **[Shaoqing Dai](https://gisersqdai.top/mycv/)** (since Mar. 2024), PhD candidate at ITC University of Twente.
+* **[Shaoqing Dai](https://gisersqdai.top/mycv/)** (since Mar. 2024), PhD candidate at ITC University of Twente.\\
 Research fields: Spatial-temporal data analysis, geo-health, spatial statistics.
-* **Ruqiao Jiang** (since Jan. 2024), President of [SIPSG Research Institute](https://www.dpark.com.cn/#/home).
+* **Ruqiao Jiang** (since Jan. 2024), President of [SIPSG Research Institute](https://www.dpark.com.cn/#/home). \\
 Research fields: Big geodata processing.
 
 ***Research Assistant***
