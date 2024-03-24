@@ -20,9 +20,14 @@ Our research is both mission- and impact-oriented. We integrate data analytics a
 Lab's Events
 ---
 
-The AI4City Academic Lecture Series aims to help our students stay connected with researchers in related fields. At the same time, we also hope to be at the cutting edge of AI and Earth observation and make key contributions to solving practical urban problems, as well as facilitating technology transfer. We encourage the scientific community and the general public interested in these topics to join our virtual seminars. If you are interested in attending a particular seminar, please send an email to ai4city.hkust@outlook.com with the title of the talk as the subject.
+***About***
+
+The AI4City Academic Lecture Series aims to help our students stay connected with researchers in related fields. At the same time, we also hope to be at the cutting edge of AI and Earth observation and make key contributions to solving practical urban problems, as well as facilitating technology transfer. We encourage the scientific community and the general public interested in these topics to join our hybrid seminars. If you are interested in attending a particular seminar, please send an email to ai4city.hkust@outlook.com with the title of the talk as the subject.
 
 We look forward to meeting you soon!
+
+***Future event***
+Coming soon!
 
 
 Current Members
@@ -33,10 +38,8 @@ Current Members
 * **[Liang Zeng (co-supervisor)](https://iiw.kuleuven.be/onderzoek/geomatics/people/00159796)** (since Oct. 2022), MSc from TU Delft. Research fields: Self-supervised learning, computer vision, multi-modal remote sensing processing.
 * **[Suzanna Cuypers (co-supervisor)](https://iiw.kuleuven.be/onderzoek/geomatics/people/00130472)** (since Oct. 2022), MSc from KU Leuven. Research fields: Deep leanrning for remote sensing image analysis, land use classification.
 
-
 ***M.Phil. students***
 <!-- * **Wenshuo Chao**, undergraduate from HKUST. -->
-
 
 ***Visiting Scholars***
 * **[Jin Huang](https://yidahuang.github.io/)** (since Jan. 2024), PhD candidate at TUDelft 3D Geoinformation Group.
@@ -48,16 +51,14 @@ Research fields: Spatial-temporal data analysis, geo-health, spatial statistics.
 * **Ruqiao Jiang** (since Jan. 2024), President of [SIPSG Research Institute](https://www.dpark.com.cn/#/home).
 Research fields: Big geodata processing.
 
-
 ***Research Assistant***
 * **Juran Zhang** (since Mar. 2024), MSc from UC Davis, and pre Team Lead at Amazon. 
 Research fields: Remote sensing data processing, distributed computing.
 * **Junxing Luo** (since Jan. 2024), BSc from South China Normal University. 
 Research fields: Built environment and infrastructure assessment, human mobility analysis.
 
-
-Alumni
----
+<!-- Alumni
+--- -->
 <!-- * **Fan Liu**, M.Phil. 2023 -> Continue Ph.D. at HKUST(GZ).
 * **Qingyan Zhu**, M.Phil. 2022, first employment: NIO Inc.  -->
 
