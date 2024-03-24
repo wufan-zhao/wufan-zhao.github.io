@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Wufan Zhao is currently an Assistant Professor at the Urban Governance and Design Thrust, The Hong Kong University of Science and Technology (Guangzhou).  His research primarily focuses on AI-based remote sensing image understanding, 3D city modeling, multi-modal spatiotemporal data fusion, and their methodological and applied studies. His researches will specifically addresses challenges related to urban environments and socio-economic factors under various scales of Sustainable Development Goals (SDGs).
+Dr. Wufan Zhao is currently an Assistant Professor at [the Urban Governance and Design Thrust](https://soch.hkust-gz.edu.cn/academics/ugod/), [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/).  His research primarily focuses on AI-based remote sensing image understanding, 3D city modeling, multi-modal spatiotemporal data fusion, and their methodological and applied studies. His researches will specifically addresses challenges related to urban environments and socio-economic factors under various scales of Sustainable Development Goals (SDGs).
 
 
 Research Interests

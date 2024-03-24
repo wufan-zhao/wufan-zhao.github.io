@@ -21,5 +21,9 @@ Membership
 * University of Twente, Digital Twin GeoHUB (DTG)
 
 
-
-
+Invited talks
+======
+* Institute for Environmental Studies,VU Amsterdam, Oct 28th 2022, the Netherlands
+* MIT City Senseable Lab, Aug 2nd 2022, U.S.
+* AI-driven methods in support of Digital Twins, Jan 26th 2022, the Netherlands
+* Technical AI Session - Proeftuin Kadaster, Jan 14th 2021, the Netherlands
