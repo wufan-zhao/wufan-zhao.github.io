@@ -10,9 +10,9 @@ author_profile: true
 
 About AI 4D City (AI4City) Labs 
 ---
-4D refers to 3D space+time. As the density of the remote sensing and earth observation datasets continues to grow exponentially with time, Prof. Wufan Zhao and his AI4City Lab aim to help pioneer computationally efficient AI-based processing and modeling strategies to solve complex and practical urban problems by integrating the multi-dimensional characteristics of big earth observation data.
+4D refers to 3D space plus time series modeling. As the type and density of the remote sensing data continue to grow exponentially, Prof. Wufan Zhao and his AI4City Lab aim to help pioneer computationally efficient AI-based processing and modeling strategies to solve complex and practical urban problems by integrating the multi- dimensional/modal characteristics of big earth observation data.
 
-Our research is being conducted at two aspects. Firstly, a 3D city scene environment (including structured LoDs building models, infrustructures, land covers etc.) reconstruction framework is being built on which any geo-referenced objects model at instance level can be founded. Secondly, it is being studied how GIS, IoT data can be modelled in an nD way accordingly for specific application fields (e.g., built-environment, human dynamic, public health, urban climate etc.)
+Our research is being conducted in two aspects. Firstly, a 3D city scene environment (including structured LoDs building models, infrastructures, land covers, etc.) reconstruction framework is being built on which any geo-referenced objects model at the instance level can be founded. Secondly, it is being studied how GIS, IoT data can be modeled in an nD way accordingly for specific application fields (e.g., built-environment, human dynamic, public health, urban climate, etc.)
 
 Our research is both mission- and impact-oriented. We integrate data analytics and modeling technologies to achieve specific goals and contribute to the public good. Whether we are developing a physical product, analyzing trends at micro and macro levels, or creating new processes for optimal efficiencies, our work is always focused on sustainable development of the urban environment.
 
@@ -41,7 +41,7 @@ Current Members
 ***Visiting Scholars***
 * **[Jin Huang](https://yidahuang.github.io/)** (since Jan. 2024), PhD candidate at TUDelft 3D Geoinformation Group, Research fields: 3D city reconstruction, computer graphics.
 * **[Cai Wu](https://www.linkedin.com/in/cai-wu-4b2a4889)** (since Mar. 2024), PhD candidate at ITC University of Twente, Research fields: GIS, urban morphological and urban design.
-* **[Shaoqing Dai](https://gisersqdai.top/mycv/)** (since Mar. 2024), PhD candidate at ITC University of Twente, Research fields: GIS modeling, mobility, geohealth.
+* **[Shaoqing Dai](https://gisersqdai.top/mycv/)** (since Mar. 2024), PhD candidate at ITC University of Twente, Research fields: Spatial-temporal data analysis, geo-health, spatial statistics.
 * **Ruqiao Jiang** (since Jan. 2024), President of [SIPSG Research Institute](https://www.dpark.com.cn/#/home), Research fields: Big geodata processing.
 
 
