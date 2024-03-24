@@ -39,7 +39,7 @@ Current Members
 
 
 ***Visiting Scholars***
-* **Jin Huang** (since Jan. 2024), PhD candidate at TUDelft 3D Geoinformation Group, Research fields: 3D city reconstruction, computer graphics.
+* **[Jin Huang](https://yidahuang.github.io/)** (since Jan. 2024), PhD candidate at TUDelft 3D Geoinformation Group, Research fields: 3D city reconstruction, computer graphics.
 * **[Cai Wu](https://www.linkedin.com/in/cai-wu-4b2a4889)** (since Mar. 2024), PhD candidate at ITC University of Twente, Research fields: GIS, urban morphological and urban design.
 * **[Shaoqing Dai](https://gisersqdai.top/mycv/)** (since Mar. 2024), PhD candidate at ITC University of Twente, Research fields: GIS modeling, mobility, geohealth.
 * **Ruqiao Jiang** (since Jan. 2024), President of [SIPSG] Research Institute(https://www.dpark.com.cn/#/home), Research fields: Big geodata processing.
