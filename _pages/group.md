@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /professions/
+permalink: /group/
 author_profile: true
 ---
 
@@ -30,6 +30,8 @@ Current Members
 ***Ph.D. students***
 * **Tongyan Hua** (since Sep. 24), MSc from TU Delft and Leiden University, Research fields: 3D city reconstruction, NeRF and SLAM.
 * **Shuai Zhang** (since Sep. 24), MSc from Sun Yat-sen University. Research fields: Point cloud processing and foundation model.
+* **[Liang Zeng (co-supervisor)](https://iiw.kuleuven.be/onderzoek/geomatics/people/00159796)** (since Oct. 22), MSc from TU Delft. Research fields: Self-supervised learning, computer vision, multi-modal remote sensing processing.
+* **[Suzanna Cuypers (co-supervisor)](https://iiw.kuleuven.be/onderzoek/geomatics/people/00130472)** (since Oct. 22), MSc from KU Leuven. Research fields: Deep leanrning for remote sensing image analysis, land use classification.
 
 
 ***M.Phil. students***
@@ -38,14 +40,14 @@ Current Members
 
 ***Visiting Scholars***
 * **Jin Huang** (since Jan. 2024), PhD candidate at TUDelft 3D Geoinformation Group, Research fields: 3D city reconstruction, computer graphics.
-* **Cai Wu** (since Mar. 2024), PhD candidate at TUDelft 3D Geoinformation Group, Research fields: GIS, urban planning and design.
-* **Shaoqing Dai** (since Mar. 2024), PhD candidate at ITC University of Twente, Research fields: GIS modeling, mobility, geohealth.
-* **Ruqiao Jiang** (since Jan. 2024), PhD candidate at TUDelft 3D Geoinformation Group, Research fields: Big geodata processing.
+* **[Cai Wu](https://www.linkedin.com/in/cai-wu-4b2a4889)** (since Mar. 2024), PhD candidate at ITC University of Twente, Research fields: GIS, urban morphological and urban design.
+* **[Shaoqing Dai](https://gisersqdai.top/mycv/)** (since Mar. 2024), PhD candidate at ITC University of Twente, Research fields: GIS modeling, mobility, geohealth.
+* **Ruqiao Jiang** (since Jan. 2024), President of [SIPSG] Research Institute(https://www.dpark.com.cn/#/home), Research fields: Big geodata processing.
 
 
 ***Research Assistant***
-* **Juran Zhang** (since Mar. 2024), Msc from UC Devis, and pre Group Lead at Amazon. Research fields: 3D city reconstruction, NeRF and SLAM.
-* **Junxing Luo** (since Jan. 2024), Bachelor at South China Normal University, Research fields: urban planning and design.
+* **Juran Zhang** (since Mar. 2024), Msc from UC Davis, and pre Group Lead at Amazon. Research fields: Remote sensing data processing, distributed computing.
+* **Junxing Luo** (since Jan. 2024), Bachelor at South China Normal University, Research fields: Built environment and infrastructure assessment, human mobility analysis.
 
 
 Alumni
