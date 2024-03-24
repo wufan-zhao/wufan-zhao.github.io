@@ -28,10 +28,10 @@ We look forward to meeting you soon!
 Current Members
 ---
 ***Ph.D. students***
-* **Tongyan Hua** (since Sep. 24), MSc from TU Delft and Leiden University, Research fields: 3D city reconstruction, NeRF and SLAM.
-* **Shuai Zhang** (since Sep. 24), MSc from Sun Yat-sen University. Research fields: Point cloud processing and foundation model.
-* **[Liang Zeng (co-supervisor)](https://iiw.kuleuven.be/onderzoek/geomatics/people/00159796)** (since Oct. 22), MSc from TU Delft. Research fields: Self-supervised learning, computer vision, multi-modal remote sensing processing.
-* **[Suzanna Cuypers (co-supervisor)](https://iiw.kuleuven.be/onderzoek/geomatics/people/00130472)** (since Oct. 22), MSc from KU Leuven. Research fields: Deep leanrning for remote sensing image analysis, land use classification.
+* **Tongyan Hua** (since Sep. 2024), MSc from TU Delft and Leiden University, Research fields: 3D city reconstruction, NeRF and SLAM.
+* **Shuai Zhang** (since Sep. 2024), MSc from Sun Yat-sen University. Research fields: Point cloud processing and foundation model.
+* **[Liang Zeng (co-supervisor)](https://iiw.kuleuven.be/onderzoek/geomatics/people/00159796)** (since Oct. 2022), MSc from TU Delft. Research fields: Self-supervised learning, computer vision, multi-modal remote sensing processing.
+* **[Suzanna Cuypers (co-supervisor)](https://iiw.kuleuven.be/onderzoek/geomatics/people/00130472)** (since Oct. 2022), MSc from KU Leuven. Research fields: Deep leanrning for remote sensing image analysis, land use classification.
 
 
 ***M.Phil. students***

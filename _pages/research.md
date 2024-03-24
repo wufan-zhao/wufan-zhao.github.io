@@ -16,7 +16,7 @@ Research Interests
 Grant
 ======
 * 	***PI***, "Multi-Source Data Fusion based 3D Geometric Building Modeling", **Open Fund of Key Laboratory of Real Scene Geographical Environment in Anhui Province**, 10/2022 - 10/2024
-* 	***co-PI***, "Research on the connectivity of loess micro-landform and its influence on the development of gully system in small watersheds of Chinese Loess Plateau", **The National Natural Science Foundation of China**,  01/24 - 12/27
+* 	***co-PI***, "Research on the connectivity of loess micro-landform and its influence on the development of gully system in small watersheds of Chinese Loess Plateau", **The National Natural Science Foundation of China**,  01/2024 - 12/2027
 
 
 Awards
