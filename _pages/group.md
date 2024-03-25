@@ -50,13 +50,13 @@ Research fields: 3D city reconstruction, computer graphics.
 Research fields: GIS, urban morphological and urban design.
 * **[Shaoqing Dai](https://gisersqdai.top/mycv/)** (since Mar. 2024), PhD candidate at ITC University of Twente.\\
 Research fields: Spatial-temporal data analysis, geo-health, spatial statistics.
-* **Ruqiao Jiang** (since Jan. 2024), President of [SIPSG Research Institute](https://www.dpark.com.cn/#/home). \\
+* **Ruqiao Jiang** (since Jan. 2024), Vice-President of [SIPSG Research Institute](https://www.dpark.com.cn/#/home). \\
 Research fields: Big geodata processing.
 
 ***Research Assistant***
-* **Juran Zhang** (since Mar. 2024), MSc from UC Davis, and pre Team Lead at Amazon. 
+* **Juran Zhang** (since Mar. 2024), MSc from UC Davis, and pre Team Lead at Amazon. \\
 Research fields: Remote sensing data processing, distributed computing.
-* **Junxing Luo** (since Jan. 2024), BSc from South China Normal University. 
+* **Junxing Luo** (since Jan. 2024), BSc from South China Normal University.\\
 Research fields: Built environment and infrastructure assessment, human mobility analysis.
 
 <!-- Alumni
