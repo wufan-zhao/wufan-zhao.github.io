@@ -26,5 +26,6 @@ Research Interests
 
 News
 ======
-* Undergraduate students/ postgraduate students are welcomed to apply for the RedBird MPhil of HKUST-gz, and RA/PhD positions in my Lab.
+* Long-term openings for RA and PhD positions in the Lab. Applications are welcome, students with a master's degree background are preferred. PhD students will be admitted in January and September each year. Please refer to the [official guidelines](https://fytgs.hkust-gz.edu.cn/admissions) for more details.
+* Undergraduate students are encouraged to apply for the [RedBird MPhil](https://www.hkust-gz.edu.cn/academics/teaching-and-learning-innovation/red-bird-mphil-program/) of HKUST-gz.
 * Postdoc positions are open. Very competitive salary and research fund package. Welcome to drop your resume and research proposal.
