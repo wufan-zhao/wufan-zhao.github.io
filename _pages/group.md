@@ -8,7 +8,7 @@ author_profile: true
 
 
 
-About AI 4D City (AI4City) Labs 
+About AI 4D City (AI4City) Lab 
 ---
 4D refers to 3D space plus time series modeling. As the type and density of the remote sensing data continue to grow exponentially, Dr. Wufan Zhao and his AI4City Lab aim to help pioneer computationally efficient AI-based processing and modeling strategies to solve complex and practical urban problems by integrating the multi- dimensional/modal characteristics of big earth observation data.
 
