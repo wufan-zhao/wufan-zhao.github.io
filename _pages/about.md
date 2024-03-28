@@ -26,6 +26,7 @@ Research Interests
 
 News
 ======
+* **[2024.3]** Dr. Wufan Zhao has been shortlisted in the [Top 30 reviewers](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing/about/news#appreciation-for-the-reviewers-for-the-calendar-year-2023) of the ISPRS Journal of Photogrammetry and Remote Sensing for 2023.
 * Long-term openings for RA and PhD positions in the Lab. Applications are welcome, students with a master's degree background are preferred. PhD students will be admitted in January and September each year. Please refer to the [official guidelines](https://fytgs.hkust-gz.edu.cn/admissions) for more details.
 * Undergraduate students are encouraged to apply for the [RedBird MPhil](https://www.hkust-gz.edu.cn/academics/teaching-and-learning-innovation/red-bird-mphil-program/) of HKUST-gz.
 * Postdoc positions are open. Very competitive salary and research fund package. Welcome to drop your resume and research proposal.
