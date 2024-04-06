@@ -31,7 +31,7 @@ Coming soon!
 Current Members
 ---
 ***Ph.D. students***
-* **[Tongyan Hua](https://www.researchgate.net/profile/Tongyan-Hua-3)** (from Sep. 2024), MSc from TU Delft and Leiden University.\\
+* **[Tongyan Hua](https://thua919.github.io/)** (from Sep. 2024), MSc from TU Delft and Leiden University.\\
 Research fields: 3D city reconstruction, NeRF and SLAM.
 * **[Shuai Zhang](https://www.researchgate.net/profile/Shuai-Zhang-194/research
 )** (from Sep. 2024), MSc from Sun Yat-sen University.\\
@@ -51,7 +51,7 @@ Research fields: 3D city reconstruction, computer graphics.
 Research fields: GIS, urban morphological and urban design.
 * **[Shaoqing Dai](https://gisersqdai.top/mycv/)** (since Mar. 2024), PhD candidate at ITC University of Twente.\\
 Research fields: Spatial-temporal data analysis, geo-health, spatial statistics.
-* **Ruqiao Jiang** (since Jan. 2024), Vice-President of [SIPSG Smart City Research Institute](https://www.dpark.com.cn/#/home). \\
+* **Ruqiao Jiang** (since Jan. 2024), Deputy Dean of [SIPSG Smart City Research Institute](https://www.dpark.com.cn/#/home). \\
 Research fields: Big geodata processing.
 
 ***Research Assistant***
