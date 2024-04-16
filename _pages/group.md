@@ -47,7 +47,7 @@ Research fields: Deep leanrning for remote sensing image analysis, land use clas
 ***Visiting Scholars***
 * **[Jin Huang](https://yidahuang.github.io/)** (since Jan. 2024), PhD candidate at TUDelft 3D Geoinformation Group.\\
 Research fields: 3D city reconstruction, computer graphics.
-* **[Cai Wu](wucai.me)** (since Mar. 2024), PhD candidate at ITC University of Twente.\\
+* **[Cai Wu](https://wucai.me/)** (since Mar. 2024), PhD candidate at ITC University of Twente.\\
 Research fields: GIS, urban morphological and urban design.
 * **[Shaoqing Dai](https://gisersqdai.top/mycv/)** (since Mar. 2024), PhD candidate at ITC University of Twente.\\
 Research fields: Spatial-temporal data analysis, geo-health, spatial statistics.
