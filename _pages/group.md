@@ -48,7 +48,7 @@ Research fields: Deep leanrning for remote sensing image analysis, land use clas
 * **[Jin Huang](https://yidahuang.github.io/)** (since Jan. 2024), PhD candidate at TUDelft 3D Geoinformation Group.\\
 Research fields: 3D city reconstruction, computer graphics.
 * **[Cai Wu](https://wucai.me/)** (since Mar. 2024), PhD candidate at ITC University of Twente.\\
-Research fields: GIS, urban morphological and urban design.
+Research fields: GIS, urban morphology and urban design.
 * **[Shaoqing Dai](https://gisersqdai.top/mycv/)** (since Mar. 2024), PhD candidate at ITC University of Twente.\\
 Research fields: Spatial-temporal data analysis, geo-health, spatial statistics.
 * **Ruqiao Jiang** (since Jan. 2024), Deputy Dean of [SIPSG Smart City Research Institute](https://www.dpark.com.cn/#/home). \\
@@ -59,6 +59,7 @@ Research fields: Big geodata processing.
 Research fields: Remote sensing data processing, distributed computing.
 * **Junxing Luo** (since Jan. 2024), BSc from South China Normal University.\\
 Research fields: Built environment and infrastructure assessment, human mobility analysis.
+* **Zhiyuan Xu** (since Apr. 2024), BSc from Harbin University of Science and Technology and MSc from University of Bristol. Pre Back‑end Engineer at Huawei and ByteDance.
 
 <!-- Alumni
 --- -->
