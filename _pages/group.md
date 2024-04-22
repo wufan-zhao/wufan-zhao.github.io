@@ -25,7 +25,10 @@ The AI4City Academic Lecture Series aims to help our students stay connected wit
 We look forward to meeting you soon!
 
 ***Future event***
-Coming soon!
+The international seminar is coming! Check the details [here]()!
+<p align="center"> 
+     <img src="../images/seminar.jpg" width="800"> 
+</p>
 
 
 Current Members
