@@ -24,10 +24,10 @@ Lab's Events
 The AI4City Academic Lecture Series aims to help our students stay connected with researchers in related fields. At the same time, we also hope to be at the cutting edge of AI and Earth observation and make key contributions to solving practical urban problems, as well as facilitating technology transfer. We encourage the scientific community and the general public interested in these topics to join our hybrid seminars. If you are interested in attending a particular seminar, please send an email to ai4city.hkust@outlook.com with the title of the talk as the subject.
 We look forward to meeting you soon!
 
-***Future event***
-The international seminar is coming! Check the details [here]()!
+***[2024.04.22]***
+Glad to announce the Series Webinar on AI for Remote Sensing and Sustainable Cities. From May 8th to June 6th, our lab will have the honor of hosting 10 distinguished young scholars from leading European institutions to share their insights. Stay tuned! Check the details [here](https://mp.weixin.qq.com/s/YDy10ISAOWq_eQ9ZOlCIdg)!
 <p align="center"> 
-     <img src="../images/seminar.jpg" width="800"> 
+     <img src="../images/seminar.jpg" width="650"> 
 </p>
 
 
