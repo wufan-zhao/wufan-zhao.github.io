@@ -43,6 +43,17 @@ Research fields: Deep leanrning for remote sensing image analysis, land use clas
 
 ***M.Phil. students***
 <!-- * **Wenshuo Chao**, undergraduate from HKUST. -->
+* **Junxing Luo** (since Jan. 2024), BSc from South China Normal University.\\
+Research fields: Built environment and infrastructure assessment, human mobility analysis.
+
+***Research Assistant***
+* **[Juran Zhang](https://www.linkedin.com/in/juran-zhang)** (since Mar. 2024), MSc from UC Davis, and pre Team Lead at Amazon. \\
+Research fields: Remote sensing data processing, distributed computing.
+* **Zhiyuan Xu** (since Apr. 2024), BSc from Harbin University of Science and Technology and MSc from University of Bristol. Pre Back‑end Engineer at Huawei and ByteDance.
+Research fields: Remote sensing image analysis, machine learning.
+* **Daxu Wei** (since Jun. 2024), MSc from Bartlett School of 
+Architecture, University College London. 
+Research fields: Urban design, generative AI, spatial analysis.
 
 ***Visiting Scholars***
 * **[Jin Huang](https://yidahuang.github.io/)** (since Jan. 2024), PhD candidate at TUDelft 3D Geoinformation Group.\\
@@ -54,15 +65,7 @@ Research fields: Spatial-temporal data analysis, geo-health, spatial statistics.
 * **Ruqiao Jiang** (since Jan. 2024), Deputy Dean of [SIPSG Smart City Research Institute](https://www.dpark.com.cn/#/home). \\
 Research fields: Big geodata processing.
 
-***Research Assistant***
-* **[Juran Zhang](https://www.linkedin.com/in/juran-zhang)** (since Mar. 2024), MSc from UC Davis, and pre Team Lead at Amazon. \\
-Research fields: Remote sensing data processing, distributed computing.
-* **Junxing Luo** (since Jan. 2024), BSc from South China Normal University.\\
-Research fields: Built environment and infrastructure assessment, human mobility analysis.
-* **Zhiyuan Xu** (since Apr. 2024), BSc from Harbin University of Science and Technology and MSc from University of Bristol. Pre Back‑end Engineer at Huawei and ByteDance.
-
-<!-- Alumni
---- -->
+<!-- ***Alumni*** -->
 <!-- * **Fan Liu**, M.Phil. 2023 -> Continue Ph.D. at HKUST(GZ).
 * **Qingyan Zhu**, M.Phil. 2022, first employment: NIO Inc.  -->
 
