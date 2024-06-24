@@ -11,7 +11,11 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
+<<<<<<< HEAD
 url                      : https://wufan-zhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+=======
+url                      : https://wufan-zhao.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+>>>>>>> b3bc5c6378fe5b0b96a55f7d0fa0954c5e7d5060
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wufan-zhao/wufan-zhao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
