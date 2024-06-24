@@ -83,10 +83,8 @@ Glad to announce the Series Webinar on AI for Remote Sensing and Sustainable Cit
 
 - **[Juran Zhang](https://www.linkedin.com/in/juran-zhang)** (since Mar. 2024), MSc from UC Davis, and pre Team Lead at Amazon. \\
   Research fields: Remote sensing data processing, distributed computing.
-  <!-- ***Alumni*** -->
-  <!-- * **Fan Liu**, M.Phil. 2023 -> Continue Ph.D. at HKUST(GZ).
-
-* **Qingyan Zhu**, M.Phil. 2022, first employment: NIO Inc. -->
+- **Fan Liu**, M.Phil. 2023, Continue Ph.D. at HKUST(GZ).
+- **Qingyan Zhu**, M.Phil. 2022, first employment: NIO Inc.
 
 ## Cooperative Institutions
 
