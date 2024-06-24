@@ -81,7 +81,7 @@ Glad to announce the Series Webinar on AI for Remote Sensing and Sustainable Cit
 
 **_Alumni_**
 
-- **[Juran Zhang](https://www.linkedin.com/in/juran-zhang)** (since Mar. 2024), MSc from UC Davis, and pre Team Lead at Amazon. \\
+- **[Juran Zhang](https://www.linkedin.com/in/juran-zhang)** (from Mar to May 2024), MSc from UC Davis, and pre Team Lead at Amazon. \\
   Research fields: Remote sensing data processing, distributed computing.
 
 ## Cooperative Institutions
