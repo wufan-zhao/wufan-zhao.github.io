@@ -49,13 +49,19 @@ Glad to announce the Series Webinar on AI for Remote Sensing and Sustainable Cit
 
 **_Research Assistant_**
 
-- **[Juran Zhang](https://www.linkedin.com/in/juran-zhang)** (since Mar. 2024), MSc from UC Davis, and pre Team Lead at Amazon. \\
-  Research fields: Remote sensing data processing, distributed computing.
-- **Zhiyuan Xu** (since Apr. 2024), BSc from Harbin University of Science and Technology and MSc from University of Bristol. Pre Back‑end Engineer at Huawei and ByteDance.
+- **Zhiyuan Xu** (since Apr. 2024), BSc from Harbin University of Science and Technology and MSc from University of Bristol. Pre Back‑end Engineer at Huawei and ByteDance.\\
   Research fields: Remote sensing image analysis, machine learning.
 - **Daxu Wei** (since Jun. 2024), MSc from Bartlett School of
-  Architecture, University College London.
+  Architecture, University College London.\\
   Research fields: Urban design, generative AI, spatial analysis.
+- **[Yunlei Su](https://suyunlei.github.io/homepage/)** (since Jul. 2024), MSc from National University of Singapore. Pre Front-end Engineer at CSCI.\\
+  Research fields: WebGIS, Urban Digital Twins, 3D visualization, spatial analysis.
+- **Guanyu Hou** (since Jun. 2024), MSc from Chinese Academy of Sciences.\\
+  Research fields: Remote Sensing, urbanization and ecosystem.
+- **Zhongcheng Hong** (since Jul. 2024), MSc from South China University of Technology.\\
+  Research fields: 3D reconstruction & Self-supervised visual task.
+- **Zongrong Li** (since Jun. 2024), MSc from University of South Carolina.\\
+  Research fields: Spatial Data Science.
 
 **_Visiting Scholars_**
 
@@ -68,9 +74,19 @@ Glad to announce the Series Webinar on AI for Remote Sensing and Sustainable Cit
 - **Ruqiao Jiang** (since Jan. 2024), Deputy Dean of [SIPSG Smart City Research Institute](https://www.dpark.com.cn/#/home). \\
   Research fields: Big geodata processing.
 
-<!-- ***Alumni*** -->
-<!-- * **Fan Liu**, M.Phil. 2023 -> Continue Ph.D. at HKUST(GZ).
-* **Qingyan Zhu**, M.Phil. 2022, first employment: NIO Inc.  -->
+**_Visiting Student_**
+
+- **Taiyu Zhao** (since Jan. 2024), Graduate Student from University of Cambridge\\
+  Research fields: Urban Climate & Spatial Analysis.
+
+**_Alumni_**
+
+- **[Juran Zhang](https://www.linkedin.com/in/juran-zhang)** (since Mar. 2024), MSc from UC Davis, and pre Team Lead at Amazon. \\
+  Research fields: Remote sensing data processing, distributed computing.
+  <!-- ***Alumni*** -->
+  <!-- * **Fan Liu**, M.Phil. 2023 -> Continue Ph.D. at HKUST(GZ).
+
+* **Qingyan Zhu**, M.Phil. 2022, first employment: NIO Inc. -->
 
 ## Cooperative Institutions
 
