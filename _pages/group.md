@@ -56,8 +56,6 @@ Glad to announce the Series Webinar on AI for Remote Sensing and Sustainable Cit
 - **Daxu Wei** (since Jun. 2024), MSc from Bartlett School of
   Architecture, University College London.
   Research fields: Urban design, generative AI, spatial analysis.
-- **Yunlei Su** (since Jul. 2024), MSc from NUS. Pre Front-end engineer at CSCI.
-  Research fields: webgis, urban digital twins.
 
 **_Visiting Scholars_**
 
