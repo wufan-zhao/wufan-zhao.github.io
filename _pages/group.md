@@ -76,15 +76,13 @@ Glad to announce the Series Webinar on AI for Remote Sensing and Sustainable Cit
 
 **_Visiting Student_**
 
-- **Taiyu Zhao** (since Jan. 2024), Graduate Student from University of Cambridge\\
+- **Taiyu Zhao** (since Jan. 2024), BSc from Wuhan University, Graduate Student from University of Cambridge\\
   Research fields: Urban Climate & Spatial Analysis.
 
 **_Alumni_**
 
 - **[Juran Zhang](https://www.linkedin.com/in/juran-zhang)** (since Mar. 2024), MSc from UC Davis, and pre Team Lead at Amazon. \\
   Research fields: Remote sensing data processing, distributed computing.
-- **Fan Liu**, M.Phil. 2023, Continue Ph.D. at HKUST(GZ).
-- **Qingyan Zhu**, M.Phil. 2022, first employment: NIO Inc.
 
 ## Cooperative Institutions
 
