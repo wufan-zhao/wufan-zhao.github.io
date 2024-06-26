@@ -61,7 +61,7 @@ Glad to announce the Series Webinar on AI for Remote Sensing and Sustainable Cit
 - **Zhongcheng Hong** (since Jul. 2024), MSc from South China University of Technology.\\
   Research fields: 3D reconstruction & Self-supervised visual task.
 - **[Zongrong Li](https://jasper0122.github.io/
-)** (since Jun. 2024), MSc at University of South Carolina.\\
+)** (since Jun. 2024), MSc at University of Southern California.\\
   Research fields: GeoAI, CityLLM, Spatial Economics & Finance.
 
 **_Visiting Scholars_**
