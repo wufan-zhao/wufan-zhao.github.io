@@ -72,7 +72,7 @@ Glad to announce the Series Webinar on AI for Remote Sensing and Sustainable Cit
   Research fields: GIS, urban morphology and urban design.
 - **[Dr. Shaoqing Dai](https://gisersqdai.top/mycv/)**, Assistant research fellow at Wuhan University, PhD from ITC University of Twente.\\
   Research fields: Spatial-temporal data analysis, geo-health, spatial statistics.
-- **[Xianwei Lv](https://jsjytx.neuq.edu.cn/info/1037/6198.htm)**, Lecturer at Northeastern University at Qinhuangdao, School of Computer and Communication Engineering.\\  
+- **[Dr. Xianwei Lv](https://jsjytx.neuq.edu.cn/info/1037/6198.htm)**, Lecturer at Northeastern University at Qinhuangdao, School of Computer and Communication Engineering.\\  
   Research fields: Remote sensing images interpretation, image segmentation, parallel computing.
 - **Ruqiao Jiang**, Deputy Dean of [SIPSG Smart City Research Institute](https://www.dpark.com.cn/#/home). \\
   Research fields: Big geodata processing.
