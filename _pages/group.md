@@ -66,14 +66,17 @@ Glad to announce the Series Webinar on AI for Remote Sensing and Sustainable Cit
 
 **_Visiting Scholars_**
 
-- **[Jin Huang](https://yidahuang.github.io/)** (since Jan. 2024), PhD candidate at TUDelft 3D Geoinformation Group.\\
+- **[Jin Huang](https://yidahuang.github.io/)**, PhD candidate at TUDelft 3D Geoinformation Group.\\
   Research fields: 3D city reconstruction, computer graphics.
-- **[Cai Wu](https://wucai.me/)** (since Mar. 2024), PhD candidate at ITC University of Twente.\\
+- **[Dr. Cai Wu](https://wucai.me/)**, PhD from ITC University of Twente.\\
   Research fields: GIS, urban morphology and urban design.
-- **[Shaoqing Dai](https://gisersqdai.top/mycv/)** (since Mar. 2024), PhD candidate at ITC University of Twente.\\
+- **[Dr. Shaoqing Dai](https://gisersqdai.top/mycv/)**, Assistant research fellow at Wuhan University, PhD from ITC University of Twente.\\
   Research fields: Spatial-temporal data analysis, geo-health, spatial statistics.
-- **Ruqiao Jiang** (since Jan. 2024), Deputy Dean of [SIPSG Smart City Research Institute](https://www.dpark.com.cn/#/home). \\
+- **[Xianwei Lv](https://jsjytx.neuq.edu.cn/info/1037/6198.htm)**, Lecturer at Northeastern University at Qinhuangdao, School of Computer and Communication Engineering.\\  
+  Research fields: Remote sensing images interpretation, image segmentation, parallel computing.
+- **Ruqiao Jiang**, Deputy Dean of [SIPSG Smart City Research Institute](https://www.dpark.com.cn/#/home). \\
   Research fields: Big geodata processing.
+
 
 **_Visiting Student_**
 
