@@ -46,11 +46,12 @@ Glad to announce the Series Webinar on AI for Remote Sensing and Sustainable Cit
 
 - **Junxing Luo** (since Jan. 2024), BSc from South China Normal University.\\
   Research fields: Built environment and infrastructure assessment, human mobility analysis.
+- **Chenyuan Zhu** (since August. 2024), China University of Mining & Technology, Beijing.\\
+  Research fields: Remote sensing analysis and 3D modeling.
+
 
 **_Research Assistant_**
 
-- **Zhiyuan Xu** (since Apr. 2024), BSc from Harbin University of Science and Technology and MSc from University of Bristol. Pre Back‑end Engineer at Huawei and ByteDance.\\
-  Research fields: Remote sensing image analysis, machine learning.
 - **Daxu Wei** (since Jun. 2024), MSc from Bartlett School of
   Architecture, University College London.\\
   Research fields: Urban design, generative AI, spatial analysis.
@@ -64,6 +65,7 @@ Glad to announce the Series Webinar on AI for Remote Sensing and Sustainable Cit
 )** (since Jun. 2024), MSc at University of Southern California.\\
   Research fields: GeoAI, CityLLM, Spatial Economics & Finance.
 
+
 **_Visiting Scholars_**
 
 - **[Jin Huang](https://yidahuang.github.io/)**, PhD candidate at TUDelft 3D Geoinformation Group.\\
@@ -72,14 +74,15 @@ Glad to announce the Series Webinar on AI for Remote Sensing and Sustainable Cit
   Research fields: GIS, urban morphology and urban design.
 - **[Dr. Shaoqing Dai](https://gisersqdai.top/mycv/)**, Assistant research fellow at Wuhan University, PhD from ITC University of Twente.\\
   Research fields: Spatial-temporal data analysis, geo-health, spatial statistics.
-- **[Dr. Xianwei Lv](https://jsjytx.neuq.edu.cn/info/1037/6198.htm)**, Lecturer at Northeastern University at Qinhuangdao, School of Computer and Communication Engineering.\\  
+- **[Dr. Xianwei Lv](https://jsjytx.neuq.edu.cn/info/1037/6198.htm)**, Lecturer at Northeastern University at Qinhuangdao, School of Computer and Communication Engineering. \\  
   Research fields: Remote sensing images interpretation, image segmentation, parallel computing.
 - **Ruqiao Jiang**, Deputy Dean of [SIPSG Smart City Research Institute](https://www.dpark.com.cn/#/home). \\
   Research fields: Big geodata processing.
 
 
 **_Visiting Student_**
-
+- **Zhiyuan Xu** (since Apr. 2024), BSc from Harbin University of Science and Technology and MSc from University of Bristol. Pre Back‑end Engineer at Huawei and ByteDance. Soon PhD student at University of Bristol. \\
+  Research fields: Remote sensing image analysis, NLP and machine learning.
 - **Taiyu Zhao** (since Jun. 2024), BSc from Wuhan University, MSc at University of Cambridge\\
   Research fields: Urban Climate & Spatial Analysis.
 
