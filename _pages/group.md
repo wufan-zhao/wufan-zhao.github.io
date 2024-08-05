@@ -14,6 +14,9 @@ Our research is being conducted in two aspects. Firstly, a 3D city scene environ
 
 Our research is both mission- and impact-oriented. We integrate data analytics and modeling technologies to achieve specific goals and contribute to the public good. Whether we are developing a physical product, analyzing trends at micro and macro levels, or creating new processes for optimal efficiencies, our work is always focused on sustainable development of the urban environment.
 
+<p align="center"> 
+     <img src="../images/research-field.jpg" width="650"> 
+</p>
 ## Lab's Events
 
 **_About_**
