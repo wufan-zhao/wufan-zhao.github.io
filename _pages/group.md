@@ -84,10 +84,11 @@ Glad to announce the Series Webinar on AI for Remote Sensing and Sustainable Cit
 
 
 **_Visiting Student_**
-- **Zhiyuan Xu** (since Apr. 2024), BSc from Harbin University of Science and Technology and MSc from University of Bristol. Pre Back‑end Engineer at Huawei and ByteDance. Soon PhD student at University of Bristol. \\
+- **Zhiyuan Xu** (since Apr. 2024), BSc from Harbin University of Science and Technology and MSc from University of Bristol. Pre Back‑end Engineer at Huawei and ByteDance. Soon PhD student at University of Bristol. 
+  Research fields: Remote sensing image analysis, NLP and machine learning. \\
 - **Yinrui Ren** (since Aug. 2024), MSc at from South China Normal University.
   Research fields: Deep learning and remote sensing image analysis.\\
-  Research fields: Remote sensing image analysis, NLP and machine learning.
+  
 - **Taiyu Zhao** (since Jun. 2024), BSc from Wuhan University, MSc at University of Cambridge\\
   Research fields: Urban Climate & Spatial Analysis.
 
