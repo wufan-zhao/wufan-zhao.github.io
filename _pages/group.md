@@ -77,7 +77,7 @@ Glad to announce the Series Webinar on AI for Remote Sensing and Sustainable Cit
   Research fields: GIS, urban morphology and urban design. -->
 - **[Dr. Shaoqing Dai](https://gisersqdai.top/mycv/)**, Assistant research fellow at Wuhan University, PhD from ITC University of Twente.\\
   Research fields: Spatial-temporal data analysis, geo-health, spatial statistics.
-- **[Dr. Xianwei Lv](https://jsjytx.neuq.edu.cn/info/1037/6198.htm)**, Lecturer at Northeastern University at Qinhuangdao, School of Computer and Communication Engineering. \\  
+- **[Dr. Xianwei Lv](https://jsjytx.neuq.edu.cn/info/1037/6198.htm)**, Lecturer at Northeastern University at Qinhuangdao, School of Computer and Communication Engineering. 
   Research fields: Remote sensing images interpretation, image segmentation, parallel computing.
 - **Ruqiao Jiang**, Deputy Dean of [SIPSG Smart City Research Institute](https://www.dpark.com.cn/#/home). \\
   Research fields: Big geodata processing.
@@ -86,15 +86,12 @@ Glad to announce the Series Webinar on AI for Remote Sensing and Sustainable Cit
 **_Visiting Student_**
 - **Zhiyuan Xu** (since Apr. 2024), BSc from Harbin University of Science and Technology and MSc from University of Bristol. Pre Back‑end Engineer at Huawei and ByteDance. Soon PhD student at University of Bristol. 
   Research fields: Remote sensing image analysis, NLP and machine learning. 
-
 - **Yinrui Ren** (since Aug. 2024), MSc at South China Normal University.
   Research fields: Deep learning and remote sensing image analysis.
-
-- **[Wenbo Lv](https://github.com/SpatLyu)** (since Aug. 2024), BSc at Shaanxi Normal University.
+- **[Wenbo Lv](https://spatlyu.github.io/)** (since Aug. 2024), BSc at Shaanxi Normal University.
   Research fields: Spatiotemporal statistics, Remote sensing image processing.
   
 
- 
 - **Taiyu Zhao** (since Jun. 2024), BSc from Wuhan University, MSc at University of Cambridge\\
   Research fields: Urban Climate & Spatial Analysis.
 
