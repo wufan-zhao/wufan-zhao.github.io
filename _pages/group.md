@@ -83,22 +83,23 @@ Glad to announce the Series Webinar on AI for Remote Sensing and Sustainable Cit
   Research fields: Big geodata processing.
 
 
-**_Visiting Student_**
-- **Zhiyuan Xu** (since Apr. 2024), BSc from Harbin University of Science and Technology and MSc from University of Bristol. Pre Back‑end Engineer at Huawei and ByteDance. Soon PhD student at University of Bristol. 
-  Research fields: Remote sensing image analysis, NLP and machine learning. 
-- **Yinrui Ren** (since Aug. 2024), MSc at South China Normal University.
-  Research fields: Deep learning and remote sensing image analysis.
-- **[Wenbo Lv](https://spatlyu.github.io/)** (since Aug. 2024), BSc at Shaanxi Normal University.
+**_Visiting Students_**
+- **Zhiyuan Xu** (since Apr. 2024), PhD student at University of Bristol. BSc from Harbin University of Science and Technology and MSc from University of Bristol. Pre Back‑end Engineer at Huawei and ByteDance.\\Research fields: Remote sensing image analysis, NLP and machine learning. 
+- **Honglin Ren** (since Aug. 2024), MSc at The University of Hong Kong, BSc from Southeast University. \\
+Research fields: Green buildings and machine learning in built environment.
+- **Yinrui Ren** (since Aug. 2024), MSc at South China Normal University.\\ 
+Research fields: Deep learning and remote sensing image analysis.
+- **[Wenbo Lv](https://spatlyu.github.io/)** (since Aug. 2024), BSc at Shaanxi Normal University.\\
   Research fields: Spatiotemporal statistics, Remote sensing image processing.
-  
 
-- **Taiyu Zhao** (since Jun. 2024), BSc from Wuhan University, MSc at University of Cambridge\\
-  Research fields: Urban Climate & Spatial Analysis.
+
 
 **_Alumni_**
 
 - **[Juran Zhang](https://www.linkedin.com/in/juran-zhang)** (from Mar to May 2024), MSc from UC Davis, and pre Team Lead at Amazon. \\
   Research fields: Remote sensing data processing, distributed computing.
+- **Taiyu Zhao** (Jun.-Aug. 2024), BSc from Wuhan University, MSc at University of Cambridge\\
+  Research fields: Urban Climate & Spatial Analysis.
 
 ## Cooperative Institutions
 
