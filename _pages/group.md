@@ -38,9 +38,9 @@ Glad to announce the Series Webinar on AI for Remote Sensing and Sustainable Cit
   Research fields: 3D city reconstruction, NeRF and SLAM.
 - **[Shuai Zhang](https://www.researchgate.net/profile/Shuai-Zhang-194/research)** (from Sep. 2024), MSc from Sun Yat-sen University.\\
   Research fields: Point cloud processing and foundation model.
-- **[Liang Zeng (co-supervisor)](https://iiw.kuleuven.be/onderzoek/geomatics/people/00159796)** (since Oct. 2022), MSc from TU Delft.\\
+- **[Liang Zeng (PhD student @KULeuven, co-supervisor)](https://iiw.kuleuven.be/onderzoek/geomatics/people/00159796)** (since Oct. 2022), MSc from TU Delft.\\
   Research fields: Self-supervised learning, computer vision, multi-modal remote sensing processing.
-- **[Suzanna Cuypers (co-supervisor)](https://iiw.kuleuven.be/onderzoek/geomatics/people/00130472)** (since Oct. 2022), MSc from KU Leuven.\\
+- **[Suzanna Cuypers (PhD student @KULeuven, co-supervisor)](https://iiw.kuleuven.be/onderzoek/geomatics/people/00130472)** (since Oct. 2022), MSc from KU Leuven.\\
   Research fields: Deep leanrning for remote sensing image analysis, land use classification.
 
 **_M.Phil. students_**
@@ -49,8 +49,14 @@ Glad to announce the Series Webinar on AI for Remote Sensing and Sustainable Cit
 
 - **Junxing Luo** (since Jan. 2024), BSc from South China Normal University.\\
   Research fields: Built environment and infrastructure assessment, human mobility analysis.
+- **Mingchen Li** (since Sep. 2024), BEng from Zhejiang University.\\
+  Research fields: Multi-agent social simulation, time series, computational social science.
+- **Tengxi Wang** (since Sep. 2024), BSc from Shandong University of Science and Technology.\\
+  Research fields: Remote sensing image analysis, time series analysis, machine learning.
+- **Yumiao Xiao** (since Sep. 2024), BSc from Beijing Normal University.\\
+  Research fields: Terrestrial carbon cycle, spatio-temporal data analysis, plant ecology.
 - **Chenyuan Zhu** (since August. 2024), China University of Mining & Technology, Beijing.\\
-  Research fields: Remote sensing analysis and 3D modeling.
+  Research fields: Remote sensing image analysis and 3D modeling.
 
 
 **_Research Assistant_**

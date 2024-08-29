@@ -15,7 +15,7 @@ Research Interests
 
 Grant
 ======
-* 	***PI***, "Research on Large-Scale Urban Building Vector Modeling Method Based on Deep Generative Models", National Natural Science Foundation of China Youth Fund, 01/2025 - 12/2027
+* 	***PI***, "Research on Large-Scale Urban Building Vector Modeling Based on Deep Generative Models", National Natural Science Foundation of China Youth Fund, 01/2025 - 12/2027
 * 	***PI***, "Multi-Source Data Fusion based 3D Geometric Building Modeling", Open Fund of Key Laboratory of Real Scene Geographical Environment in Anhui Province, 10/2022 - 10/2024
 * 	***co-PI***, "Research on the connectivity of loess micro-landform and its influence on the development of gully system in small watersheds of Chinese Loess Plateau", National Natural Science Foundation of China General Program, 01/2024 - 12/2027
 
