@@ -18,6 +18,10 @@ Our research is both mission- and impact-oriented. We integrate data analytics a
      <img src="../images/research-field.jpg" width="650"> 
 </p>
 
+**_About_**
+The AI4City Academic Lecture Series aims to help our students stay connected with researchers in related fields. At the same time, we also hope to be at the cutting edge of AI and Earth observation and make key contributions to solving practical urban problems, as well as facilitating technology transfer. We encourage the scientific community and the general public interested in these topics to join our hybrid seminars. If you are interested in attending a particular seminar, please send an email to ai4city.hkust@outlook.com with the title of the talk as the subject.
+We look forward to meeting you soon!
+
 ## Current Members
 
 **_Ph.D. students_**
