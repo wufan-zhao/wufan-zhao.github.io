@@ -26,13 +26,13 @@ Research Interests
 
 News
 ======
-* We're organizing an session titled "Scan-to-BIM/CIM: Digital Innovations and Applications" for the ISDE-The 2nd Youth Innovation Forum on Digital Earth from December 4-7, 2024, in Hong Kong, China. We hope to see you there! For details and registration, visit the official website [link] https://www.isde-ysin.org/2024/#/
+* We're organizing an session titled "Scan-to-BIM/CIM: Digital Innovations and Applications" for the ISDE-The 2nd Youth Innovation Forum on Digital Earth from December 4-7, 2024, in Hong Kong, China. We hope to see you there! For details and registration, visit the official website [link](https://www.isde-ysin.org/2024/#/).
 
 <p align="center"> 
      <img src="../images/digital twins.jpg" width="650"> 
 </p>
 
-**_[2024.04.22]_**
+* **_[2024.04.22]_**
 Glad to announce the Series Webinar on AI for Remote Sensing and Sustainable Cities. From May 8th to June 6th, our lab will have the honor of hosting 10 distinguished young scholars from leading European institutions to share their insights. Stay tuned! Check the details [here](https://mp.weixin.qq.com/s/YDy10ISAOWq_eQ9ZOlCIdg)!
 
 <p align="center"> 
