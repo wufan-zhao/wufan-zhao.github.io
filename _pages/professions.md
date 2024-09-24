@@ -10,12 +10,15 @@ author_profile: true
 
 Professional Activities
 ======
+* Session Chair, The 2nd Youth Innovation Forum on Digital Earth, Session 3
+Scan-to-BIM/CIM: Digital Innovations and Applications, 2024
 * Special Issue Guest Editor, 2023-2024, Remote Sensing, SI on [3D and Semantic Reconstruction of the Urban Environment Using Multi-Modal and Multi-Resolution Remote Sensing Data](https://www.mdpi.com/journal/remotesensing/special_issues/TGH46P35X8)
 * Session Chair, IGARSS 2021, TH1.O-4: Optical I - Infrastructure Detection
 
 Membership
 ======
 * ISPRS Commission IV, WG 9 on Digital Twins
+* ISDE Young Scientist Innovation Network [ISDE-YSIN](https://www.digitalearth-isde.org/) 
 * University of Twente, Digital Twin GeoHUB (DTG)
 
 Invited talks
