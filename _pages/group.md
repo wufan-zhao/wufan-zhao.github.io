@@ -55,9 +55,6 @@ Glad to announce the Series Webinar on AI for Remote Sensing and Sustainable Cit
   Research fields: Remote sensing image analysis, time series analysis, machine learning.
 - **Yumiao Xiao** (since Sep. 2024), BSc from Beijing Normal University.\\
   Research fields: Terrestrial carbon cycle, spatio-temporal data analysis, plant ecology.
-- **Chenyuan Zhu** (since August. 2024), China University of Mining & Technology, Beijing.\\
-  Research fields: Remote sensing image analysis and 3D modeling.
-
 
 **_Research Assistant_**
 
@@ -98,6 +95,8 @@ Research fields: Green buildings and machine learning in built environment.
 Research fields: Deep learning and remote sensing image analysis.
 - **[Wenbo Lv](https://spatlyu.github.io/)** (since Aug. 2024), BSc at Shaanxi Normal University.\\
 Research fields: Spatiotemporal statistics, Remote sensing image processing.
+- **Chenyuan Zhu** (since August. 2024), China University of Mining & Technology, Beijing.\\
+  Research fields: Remote sensing image analysis and 3D modeling.
 
 
 **_Alumni_**
