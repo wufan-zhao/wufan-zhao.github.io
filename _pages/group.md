@@ -49,7 +49,6 @@ We look forward to meeting you soon!
   Research fields: Terrestrial carbon cycle, spatio-temporal data analysis, plant ecology.
 
 **_Research Assistant_**
-
 - **Daxu Wei** (since Jun. 2024), MSc from Bartlett School of
   Architecture, University College London.\\
   Research fields: Urban design, generative AI, spatial analysis.
@@ -62,18 +61,30 @@ We look forward to meeting you soon!
 - **[Zongrong Li](https://jasper0122.github.io/
 )** (since Jun. 2024), MSc at University of Southern California.\\
   Research fields: GeoAI, CityLLM, Spatial Economics & Finance.
+- **Rui ZHANG** (since Dec. 2024), MSc from Southern University of Science and Technology. \\
+Research fields: 3D vision & Multimodal learning.
+- **Yinrui Ren** (since Aug. 2024), MSc at South China Normal University.\\
+Research fields: Deep learning and remote sensing image analysis.
+- **[Wenbo Lv](https://spatlyu.github.io/)** (since Aug. 2024), BSc at Shaanxi Normal University.\\
+Research fields: Spatiotemporal statistics, Remote sensing image processing.
+- **Ke Xu** (since Dec. 2024), BSc from Dalian University of Technology.\\
+Research fields: 3D Scene Generation & Computer vision
+
+
+**_Bachelor Students_**
+- **Bowen Feng** (since Sep. 2024) \\
+  <!-- Research fields: Urban design, generative AI, spatial analysis. -->
 
 
 **_Visiting Scholars_**
-
+- **[Dr. Shaoqing Dai](https://gisersqdai.top/mycv/)**, Assistant research fellow at Wuhan University, PhD from ITC University of Twente.\\
+  Research fields: Spatial-temporal data analysis, geo-health, spatial statistics.
 - **[Jin Huang](https://yidahuang.github.io/)**, PhD candidate at TUDelft 3D Geoinformation Group.\\
   Research fields: 3D city reconstruction, computer graphics.
 <!-- - **[Dr. Cai Wu](https://wucai.me/)**, PhD from ITC University of Twente.\\
   Research fields: GIS, urban morphology and urban design. -->
-- **[Dr. Shaoqing Dai](https://gisersqdai.top/mycv/)**, Assistant research fellow at Wuhan University, PhD from ITC University of Twente.\\
-  Research fields: Spatial-temporal data analysis, geo-health, spatial statistics.
-- **[Dr. Xianwei Lv](https://jsjytx.neuq.edu.cn/info/1037/6198.htm)**, Lecturer at Northeastern University at Qinhuangdao, School of Computer and Communication Engineering. \\
-Research fields: Remote sensing images interpretation, image segmentation, parallel computing.
+<!-- - **[Dr. Xianwei Lv](https://jsjytx.neuq.edu.cn/info/1037/6198.htm)**, Lecturer at Northeastern University at Qinhuangdao, School of Computer and Communication Engineering. \\
+Research fields: Remote sensing images interpretation, image segmentation, parallel computing. -->
 - **Ruqiao Jiang**, Deputy Dean of [SIPSG Smart City Research Institute](https://www.dpark.com.cn/#/home). \\
   Research fields: Big geodata processing.
 
@@ -83,12 +94,6 @@ Research fields: Remote sensing images interpretation, image segmentation, paral
 Research fields: Remote sensing image analysis, NLP and machine learning. 
 - **Honglin Ren** (since Aug. 2024), MSc at The University of Hong Kong, BSc from Southeast University. \\
 Research fields: Green buildings and machine learning in built environment.
-- **Yinrui Ren** (since Aug. 2024), MSc at South China Normal University.\\
-Research fields: Deep learning and remote sensing image analysis.
-- **[Wenbo Lv](https://spatlyu.github.io/)** (since Aug. 2024), BSc at Shaanxi Normal University.\\
-Research fields: Spatiotemporal statistics, Remote sensing image processing.
-- **Chenyuan Zhu** (since August. 2024), China University of Mining & Technology, Beijing.\\
-  Research fields: Remote sensing image analysis and 3D modeling.
 
 
 **_Alumni_**
@@ -97,6 +102,8 @@ Research fields: Spatiotemporal statistics, Remote sensing image processing.
   Research fields: Remote sensing data processing, distributed computing.
 - **Taiyu Zhao** (Jun.-Aug. 2024), BSc from Wuhan University, MSc at University of Cambridge\\
   Research fields: Urban Climate & Spatial Analysis.
+<!-- - **Chenyuan Zhu** (Aug.- 2024), China University of Mining & Technology, Beijing.\\
+  Research fields: Remote sensing image analysis and 3D modeling. -->
 
 ## Cooperative Institutions
 
