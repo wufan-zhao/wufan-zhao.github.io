@@ -7,16 +7,16 @@ author_profile: true
 
 Projects
 ======
-* [GPS + 3D digital twin platform](https://gd.chinadaily.com.cn/a/202410/16/WS670f1f50a310b59111d9e27a.html)
+<!-- * [GPS + 3D digital twin platform](https://gd.chinadaily.com.cn/a/202410/16/WS670f1f50a310b59111d9e27a.html)
 
   <div style="text-align: center;">
     <video width="50%" controls>
       <source src="../images/gps+.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-  </div>
+  </div> -->
 
-* Point Cloud 3D Reconstruction of HKUST-GZ
+* 3D Scene Reconstruction of HKUST-GZ
 
   <div style="text-align: center;">
     <video width="50%" controls>
@@ -25,14 +25,14 @@ Projects
     </video>
   </div>
 
-* HKUST Digital Twin Platform
+<!-- * HKUST Digital Twin Platform
 
   <div style="text-align: center;">
     <video width="50%" controls>
       <source src="../images/hkustdt.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-  </div>
+  </div> -->
 
 Selected Publications 
 ======
