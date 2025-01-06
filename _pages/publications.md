@@ -1,10 +1,10 @@
 ---
 layout: archive
-permalink: /publications/
+permalink: /Achievements/
 author_profile: true
 ---
 {% include base_path %}
-Publication
+Achievements
 ======
 
 <!-- 2024
