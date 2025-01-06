@@ -1,15 +1,22 @@
 ---
 layout: archive
+title: "Achievements"
 permalink: /publications/
 author_profile: true
 ---
 {% include base_path %}
-publications
+
+Projects
+======
+* **2024-2027**: Principal Investigator, "AI-based 3D City Reconstruction and Urban Environment Assessment", HKUST(GZ) Startup Fund.
+* **2024-2025**: Principal Investigator, "Automatic Building Reconstruction from Multi-source Remote Sensing Data", NSFC.
+* **2024-2025**: Co-Principal Investigator, "Urban Digital Twin Platform Development", Guangzhou Development District.
+
+Selected Publications 
 ======
 
 <!-- 2024
 ----- -->
-
 
 * **Zhao, W.**, Persello, C. and Stein, A., 2023. [Semantic-aware Unsupervised Domain Adaptation for Height Estimation from Single-view Aerial Images](https://www.sciencedirect.com/science/article/pii/S0924271623000096). ISPRS Journal of Photogrammetry and Remote Sensing, 196, pp.372-385. (IF: 12.7)
 * **Zhao, W.**, Persello, C. and Stein, A., 2022. [Extracting Planar Roof Structures from Very High Resolution Images Using Graph Neural Networks](https://www.sciencedirect.com/science/article/pii/S092427162200065X). ISPRS Journal of Photogrammetry and Remote Sensing, 187, pp.34-45. (IF: 12.7, **UTwente ITC Ph.D. Publication Award**)
