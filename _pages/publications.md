@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Achievements"
 permalink: /publications/
 author_profile: true
 ---
