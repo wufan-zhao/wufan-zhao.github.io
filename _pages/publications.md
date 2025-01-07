@@ -8,18 +8,20 @@ author_profile: true
 Display of Research Results
 ======
 
-* 3D City Modeling
-<div>
-<h4>3D Scene Reconstruction of HKUST-GZ using 3D Gaussian splatting</h4>
-  <div style="text-align: center;">
+## 3D City Modeling
+
+### 3D Scene Reconstruction of HKUST-GZ using 3D Gaussian splatting
+
+<div style="text-align: center;">
     <video width="50%" controls>
       <source src="../images/3drebuild.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-  </div>
 </div>
 
-## **gdverse**: An R package for spatial stratified heterogeneity family
+## Spatiotemporal Statistical Modeling
+
+### gdverse: An R package for spatial stratified heterogeneity family
 
 Analyzing spatial factors and exploring spatial associations based on the concept of spatial stratified heterogeneity, while also taking into account local spatial dependencies, spatial interpretability, complex spatial interactions, and robust spatial stratification. Additionally, it supports the spatial stratified heterogeneity family established in academic literature.
 
