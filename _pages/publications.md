@@ -16,14 +16,16 @@ Display of Research Results
     </video>
   </div> -->
 
-* 3D Scene Reconstruction of HKUST-GZ
-
+* 3D City Modeling
+<div>
+<h4>3D Scene Reconstruction of HKUST-GZ using 3D Gaussian splatting</h4>
   <div style="text-align: center;">
     <video width="50%" controls>
       <source src="../images/3drebuild.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
+</div>
 
 <!-- * HKUST Digital Twin Platform
 
