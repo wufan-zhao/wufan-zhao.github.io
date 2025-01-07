@@ -7,14 +7,6 @@ author_profile: true
 
 Display of Research Results
 ======
-<!-- * [GPS + 3D digital twin platform](https://gd.chinadaily.com.cn/a/202410/16/WS670f1f50a310b59111d9e27a.html)
-
-  <div style="text-align: center;">
-    <video width="50%" controls>
-      <source src="../images/gps+.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div> -->
 
 * 3D City Modeling
 <div>
@@ -27,20 +19,18 @@ Display of Research Results
   </div>
 </div>
 
-<!-- * HKUST Digital Twin Platform
+## **gdverse**: An R package for spatial stratified heterogeneity family
 
-  <div style="text-align: center;">
-    <video width="50%" controls>
-      <source src="../images/hkustdt.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div> -->
+Analyzing spatial factors and exploring spatial associations based on the concept of spatial stratified heterogeneity, while also taking into account local spatial dependencies, spatial interpretability, complex spatial interactions, and robust spatial stratification. Additionally, it supports the spatial stratified heterogeneity family established in academic literature.
+
+<p align="center">
+    <a href="https://CRAN.R-project.org/package=gdverse">
+        <img src="../images/gdverse_figure1.jpg" style="width: 60%;">
+    </a>
+</p>
 
 Selected Publications 
 ======
-
-<!-- 2024
------ -->
 
 * **Zhao, W.**, Persello, C. and Stein, A., 2023. [Semantic-aware Unsupervised Domain Adaptation for Height Estimation from Single-view Aerial Images](https://www.sciencedirect.com/science/article/pii/S0924271623000096). ISPRS Journal of Photogrammetry and Remote Sensing, 196, pp.372-385. (IF: 12.7)
 * **Zhao, W.**, Persello, C. and Stein, A., 2022. [Extracting Planar Roof Structures from Very High Resolution Images Using Graph Neural Networks](https://www.sciencedirect.com/science/article/pii/S092427162200065X). ISPRS Journal of Photogrammetry and Remote Sensing, 187, pp.34-45. (IF: 12.7, **UTwente ITC Ph.D. Publication Award**)
