@@ -30,6 +30,8 @@ We look forward to meeting you soon!
   Research fields: 3D city reconstruction, NeRF and SLAM.
 - **[Shuai Zhang](https://www.researchgate.net/profile/Shuai-Zhang-194/research)** (from Sep. 2024), MSc from Sun Yat-sen University.\\
   Research fields: Point cloud processing and foundation model.
+- **[Yunlei Su](https://suyunlei.github.io/homepage/)** (since Jul. 2024), MSc from National University of Singapore. Pre Front-end Engineer at CSCI.\\
+  Research fields: Digital Twin City and HCI, 3D visualization, human-centric urban design.
 - **[Liang Zeng (PhD student @KULeuven, co-supervisor)](https://iiw.kuleuven.be/onderzoek/geomatics/people/00159796)** (since Oct. 2022), MSc from TU Delft.\\
   Research fields: Self-supervised learning, computer vision, multi-modal remote sensing processing.
 - **[Suzanna Cuypers (PhD student @KULeuven, co-supervisor)](https://iiw.kuleuven.be/onderzoek/geomatics/people/00130472)** (since Oct. 2022), MSc from KU Leuven.\\
@@ -49,18 +51,11 @@ We look forward to meeting you soon!
   Research fields: Terrestrial carbon cycle, spatio-temporal data analysis, plant ecology.
 
 **_Research Assistant_**
-- **Daxu Wei** (since Jun. 2024), MSc from Bartlett School of
-  Architecture, University College London.\\
-  Research fields: Urban design, generative AI, spatial analysis.
-- **[Yunlei Su](https://suyunlei.github.io/homepage/)** (since Jul. 2024), MSc from National University of Singapore. Pre Front-end Engineer at CSCI.\\
-  Research fields: WebGIS, Urban Digital Twins, 3D visualization, spatial analysis.
-- **Guanyu Hou** (since Jun. 2024), MSc from Chinese Academy of Sciences.\\
-  Research fields: Remote Sensing, urbanization and ecosystem.
-- **Zhongcheng Hong** (since Jul. 2024), MSc from South China University of Technology.\\
-  Research fields: 3D reconstruction & Self-supervised visual task.
 - **[Zongrong Li](https://jasper0122.github.io/
 )** (since Jun. 2024), MSc at University of Southern California.\\
   Research fields: GeoAI, CityLLM, Spatial Economics & Finance.
+- **Zhongcheng Hong** (since Jul. 2024), MSc from South China University of Technology.\\
+  Research fields: 3D reconstruction & Self-supervised visual task.
 - **Rui ZHANG** (since Dec. 2024), MSc from Southern University of Science and Technology. \\
 Research fields: 3D vision & Multimodal learning.
 - **Yinrui Ren** (since Aug. 2024), MSc at South China Normal University.\\
@@ -69,6 +64,11 @@ Research fields: Deep learning and remote sensing image analysis.
 Research fields: Spatiotemporal statistics, Remote sensing image processing.
 - **Ke Xu** (since Dec. 2024), BSc from Dalian University of Technology.\\
 Research fields: 3D Scene Generation & Computer vision
+- **Daxu Wei** (since Jun. 2024), MSc from Bartlett School of
+  Architecture, University College London.\\
+  Research fields: Urban design, generative AI, spatial analysis.
+- **Guanyu Hou** (since Jun. 2024), MSc from Chinese Academy of Sciences.\\
+  Research fields: Remote Sensing, urbanization and ecosystem.
 
 
 **_Bachelor Students_**
