@@ -30,7 +30,7 @@ We look forward to meeting you soon!
   Research fields: 3D city reconstruction, NeRF and SLAM.
 - **[Shuai Zhang](https://www.researchgate.net/profile/Shuai-Zhang-194/research)** (from Sep. 2024), MSc from Sun Yat-sen University.\\
   Research fields: Point cloud processing and foundation model.
-- **[Yunlei Su](https://suyunlei.github.io/homepage/)** (since Jul. 2024), MSc from National University of Singapore. Pre Front-end Engineer at CSCI.\\
+- **[Yunlei Su](https://suyunlei.github.io/homepage/)** (since Jan. 2025), MSc from National University of Singapore. Pre Front-end Engineer at CSCI.\\
   Research fields: Digital Twin City and HCI, 3D visualization, human-centric urban design.
 - **[Liang Zeng (PhD student @KULeuven, co-supervisor)](https://iiw.kuleuven.be/onderzoek/geomatics/people/00159796)** (since Oct. 2022), MSc from TU Delft.\\
   Research fields: Self-supervised learning, computer vision, multi-modal remote sensing processing.
