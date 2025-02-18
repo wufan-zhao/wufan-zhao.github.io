@@ -37,7 +37,7 @@ We look forward to meeting you soon!
 - **[Suzanna Cuypers (PhD student @KULeuven, co-supervisor)](https://iiw.kuleuven.be/onderzoek/geomatics/people/00130472)** (since Oct. 2022), MSc from KU Leuven.\\
   Research fields: Deep leanrning for remote sensing image analysis, land use classification.
 
-**_M.Phil. students_**
+**_Master students_**
 
 <!-- * **Wenshuo Chao**, undergraduate from HKUST. -->
 
@@ -49,6 +49,9 @@ We look forward to meeting you soon!
   Research fields: Remote sensing image analysis, time series analysis, machine learning.
 - **Yumiao Xiao** (since Sep. 2024), BSc from Beijing Normal University.\\
   Research fields: Terrestrial carbon cycle, spatio-temporal data analysis, plant ecology.
+- **Hongrui Xiao** (since Feb. 2025), BSc from Queen's University Belfast.\\
+  Research fields: GeoAI, Remote Sensing, Urban Economy.
+
 
 **_Research Assistant_**
 - **[Zongrong Li](https://jasper0122.github.io/
@@ -64,9 +67,6 @@ Research fields: Deep learning and remote sensing image analysis.
 Research fields: Spatiotemporal statistics, Remote sensing image processing.
 - **Ke Xu** (since Dec. 2024), BSc from Dalian University of Technology.\\
 Research fields: 3D Scene Generation & Computer vision
-- **Daxu Wei** (since Jun. 2024), MSc from Bartlett School of
-  Architecture, University College London.\\
-  Research fields: Urban design, generative AI, spatial analysis.
 - **Guanyu Hou** (since Jun. 2024), MSc from Chinese Academy of Sciences.\\
   Research fields: Remote Sensing, urbanization and ecosystem.
 
@@ -91,9 +91,16 @@ Research fields: Remote sensing images interpretation, image segmentation, paral
 
 **_Visiting Students_**
 - **Zhiyuan Xu** (since Apr. 2024), PhD student at University of Bristol. BSc from Harbin University of Science and Technology and MSc from University of Bristol. Pre Back‑end Engineer at Huawei and ByteDance.\\
-Research fields: Remote sensing image analysis, NLP and machine learning. 
+Research fields: Remote sensing image analysis, NLP and machine learning.
+- **Liwei Zou** (since Feb. 2025), MSc from School of Geography and Planning, Sun Yat-sen University.\\
+  Research fields: Multimodal data mining, Disaster analysis, Urban resilience.
+- **Daxu Wei** (since Jun. 2024), MSc from Bartlett School of
+  Architecture, University College London.\\ 
+  Research fields: Urban design, generative AI, spatial analysis.
 - **Honglin Ren** (since Aug. 2024), MSc at The University of Hong Kong, BSc from Southeast University. \\
 Research fields: Green buildings and machine learning in built environment.
+- **Hongrong Wang** (since Dec. 2024),  BSc from Guangdong University of Technology.\\
+Research fields: software development, generative AI.
 
 
 **_Alumni_**
