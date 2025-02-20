@@ -67,8 +67,6 @@ Research fields: Deep learning and remote sensing image analysis.
 Research fields: Spatiotemporal statistics, Remote sensing image processing.
 - **Ke Xu** (since Dec. 2024), BSc from Dalian University of Technology.\\
 Research fields: 3D Scene Generation & Computer vision
-- **Guanyu Hou** (since Jun. 2024), MSc from Chinese Academy of Sciences.\\
-  Research fields: Remote Sensing, urbanization and ecosystem.
 
 
 **_Bachelor Students_**
@@ -99,6 +97,8 @@ Research fields: Remote sensing image analysis, NLP and machine learning.
   Research fields: Urban design, generative AI, spatial analysis.
 - **Honglin Ren** (since Aug. 2024), MSc at The University of Hong Kong, BSc from Southeast University. \\
 Research fields: Green buildings and machine learning in built environment.
+- **Guanyu Hou** (since Jun. 2024), MSc from Chinese Academy of Sciences.\\
+  Research fields: Remote Sensing, urbanization and ecosystem.
 - **Hongrong Wang** (since Dec. 2024),  BSc from Guangdong University of Technology.\\
 Research fields: software development, generative AI.
 
