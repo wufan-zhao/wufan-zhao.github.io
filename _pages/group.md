@@ -67,7 +67,8 @@ Research fields: Deep learning and remote sensing image analysis.
 Research fields: Spatiotemporal statistics, Remote sensing image processing.
 - **Ke Xu** (since Dec. 2024), BSc from Dalian University of Technology.\\
 Research fields: 3D Scene Generation & Computer vision
-
+- **Bingchen Li** (since Mar. 2025), MSc from University of Southern California.\\
+ Research fields: Urban Economics & Regional Economics.
 
 **_Bachelor Students_**
 - **Bowen Feng** (since Sep. 2024) \\
