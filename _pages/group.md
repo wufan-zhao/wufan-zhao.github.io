@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-## Current Members
+## Group Members
 
 **_Ph.D. students_**
 
@@ -92,7 +92,7 @@ Research fields: software development, generative AI.
 - **Xiaoyu Li** (since Sep. 2025), BSc from Beijing Forestry University.\\
   Research fields: UAV remote sensing, environmental monitoring and LULC  classification.
 
-**_Alumni_**
+## Alumni
 
 - **[Juran Zhang](https://www.linkedin.com/in/juran-zhang)** (from Mar to May 2024), MSc from UC Davis, and pre Team Lead at Amazon. \\
   Research fields: Remote sensing data processing, distributed computing.
