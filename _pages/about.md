@@ -17,6 +17,13 @@ Education
 * MSc in Geoinformatics, Nanjing Normal University & University of Salzrburg (2018)
 * BSc in GIS, Northwest A&F University (2015)
 
+Awards
+======
+<!-- *    Zhejiang Provincial Youth Talent Program, 2023 -->
+*   [Top 30 reviewers](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing/about/news#appreciation-for-the-reviewers-for-the-calendar-year-2023) of the ISPRS Journal of Photogrammetry and Remote Sensing for 2023.
+*   UTwente ITC Ph.D. Publication Award, 2022
+*   CSC Scholarship, 2018-2022
+
 
 Research Interests
 ======
