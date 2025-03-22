@@ -98,10 +98,3 @@ Research fields: software development, generative AI.
   Research fields: Remote sensing data processing, distributed computing.
 - **Taiyu Zhao** (Jun.-Aug. 2024), BSc from Wuhan University, MSc at University of Cambridge\\
   Research fields: Urban Climate & Spatial Analysis.
-
-## Cooperative Institutions
-
-- [EOS Department](https://www.itc.nl/about-itc/scientific-departments/earth-observation-science/), [ITC](https://www.itc.nl/), [Univerisy of Twente](https://www.utwente.nl/en/)
-- [Geomatics Group](https://iiw.kuleuven.be/onderzoek/geomatics/home), [Faculty of Engineering Technology](https://iiw.kuleuven.be/english/index.html), [KU Leuven](https://www.kuleuven.be/english/kuleuven)
-- [3D geoinformation Group](https://3d.bk.tudelft.nl/), [TU Delft](https://www.tudelft.nl/en/)
-- [Digital Terrain Analysis Group](http://schools.njnu.edu.cn/geog/person/guoan-tang), [School of Geography](http://schools.njnu.edu.cn/geog/), [Nanjing Normal University](https://en.njnu.edu.cn/)
