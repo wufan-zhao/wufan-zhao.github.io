@@ -47,13 +47,18 @@ Grant
 * 	***PI***, "Research on Large-Scale Urban Building Vector Modeling Based on Deep Generative Models", National Natural Science Foundation of China Youth Fund, 01/2025 - 12/2027
 * 	***PI***, "Generative 3D City Reconstruction based on Remote Sensing Images", Guangzhou Science and Technology Bureau Joint Project, 01/2025 - 12/2026
 * 	***PI***, "Urban Scene Generation and Decision-Making under Multimodal Spatiotemporal Data Fusion", Guangzhou Education Bureau Talent Project, 01/2025 - 12/2026
+*    ***PI***, "Large-Scale Urban Modeling Methods Based on Generative Large Models", Open Fund of the Engineering Technology Innovation Center for Real-Scene 3D Construction and Urban Refined Governance Engineering, Ministry of Natural Resources, 01/2025 - 12/2026
+*    ***co-PI***,  "Nansha District Metaverse Innovation Project: Interactive Platform for the Public Experience of the National Games", Nansha District Science and Technology Bureau, Guangzhou, 01/2025 - 03/2026
 * 	***PI***, "Multi-Source Data Fusion based 3D Geometric Building Modeling", Open Fund of Key Laboratory of Real Scene Geographical Environment in Anhui Province, 10/2022 - 10/2024
 * 	***co-PI***, "Research on the connectivity of loess micro-landform and its influence on the development of gully system in small watersheds of Chinese Loess Plateau", National Natural Science Foundation of China General Program, 01/2024 - 12/2027
 
 
+Open Webinar
+======
 
-**_Open Webinar_**
-The AI4City Academic Lecture Series aims to help our students stay connected with researchers in related fields. At the same time, we also hope to be at the cutting edge of AI and Earth observation and make key contributions to solving practical urban problems, as well as facilitating technology transfer. We encourage the scientific community and the general public interested in these topics to join our hybrid seminars. If you are interested in attending a particular seminar, please send an email to ai4city.hkust@outlook.com with the title of the talk as the subject.
+The AI4City Academic Lecture Series aims to help our students stay connected with researchers in related fields. At the same time, we also hope to be at the cutting edge of AI and Earth observation and make key contributions to solving practical urban problems, as well as facilitating technology transfer. Check our 2024Spring Webinar series [here](https://space.bilibili.com/3546668626610569?spm_id_from=333.337.0.0).
+
+We encourage the scientific community and the general public interested in these topics to join our hybrid seminars. If you are interested in attending a particular seminar, please send an email to ai4city.hkust@outlook.com with the title of the talk as the subject.
 We look forward to meeting you soon!
 
 

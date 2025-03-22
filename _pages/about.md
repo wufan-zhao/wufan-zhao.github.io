@@ -33,11 +33,17 @@ Research Interests
 
 News
 ======
+* The Photogrammetric Engineering & Remote Sensing [(PE&RS)](https://my.asprs.org/pers) journal, established in 1935 by the American Society for Photogrammetry and Remote Sensing (ASPRS), cordially invites esteemed researchers and scholars to submit high-quality manuscripts. 
+
+* **[2024.11]** It was a privilege to have Prof. Dr. Alfred Stein from Faculty of Geo-Information Science and Earth Observation (ITC) of the University of Twente, visit our campus and AI4DCity Lab!
+
 * We're organizing an session titled "Scan-to-BIM/CIM: Digital Innovations and Applications" for the ISDE-The 2nd Youth Innovation Forum on Digital Earth from December 4-7, 2024, in Hong Kong, China. We hope to see you there! For details and registration, visit the official website [link](https://www.isde-ysin.org/2024/#/).
 
 <p align="center"> 
      <img src="../images/digital twins.jpg" width="650"> 
 </p>
+
+* **[2024.9]** Pleased to have hosted Prof. Filip Biljecki and his PhD student Xiucheng Liang from NUS at HKUST Guangzhou for enlightening exchanges!
 
 * **_[2024.04.22]_**
 Glad to announce the Series Webinar on AI for Remote Sensing and Sustainable Cities. From May 8th to June 6th, our lab will have the honor of hosting 10 distinguished young scholars from leading European institutions to share their insights. Stay tuned! Check the details [here](https://mp.weixin.qq.com/s/YDy10ISAOWq_eQ9ZOlCIdg)!
