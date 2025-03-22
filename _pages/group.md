@@ -51,6 +51,10 @@ We look forward to meeting you soon!
   Research fields: Terrestrial carbon cycle, spatio-temporal data analysis, plant ecology.
 - **Hongrui Xiao** (since Feb. 2025), BSc from Queen's University Belfast.\\
   Research fields: GeoAI, Remote Sensing, Urban Economy.
+- **Chenyuan Zhu** (since Aug.- 2024), China University of Mining & Technology, Beijing.\\
+  Research fields: Remote sensing image analysis and 3D modeling.
+- **Feiya Shu** (since Sep. 2025), BSc from China University of Mining and Technology.\\
+Research fields: Multimodal remote sensing, land cover segmentation.
 
 
 **_Research Assistant_**
@@ -102,7 +106,8 @@ Research fields: Green buildings and machine learning in built environment.
   Research fields: Remote Sensing, urbanization and ecosystem.
 - **Hongrong Wang** (since Dec. 2024),  BSc from Guangdong University of Technology.\\
 Research fields: software development, generative AI.
-
+- **Xiaoyu Li** (since Sep. 2025), BSc from Beijing Forestry University.\\
+  Research fields: UAV remote sensing, environmental monitoring and LULC  classification.
 
 **_Alumni_**
 
@@ -110,8 +115,6 @@ Research fields: software development, generative AI.
   Research fields: Remote sensing data processing, distributed computing.
 - **Taiyu Zhao** (Jun.-Aug. 2024), BSc from Wuhan University, MSc at University of Cambridge\\
   Research fields: Urban Climate & Spatial Analysis.
-<!-- - **Chenyuan Zhu** (Aug.- 2024), China University of Mining & Technology, Beijing.\\
-  Research fields: Remote sensing image analysis and 3D modeling. -->
 
 ## Cooperative Institutions
 
