@@ -42,6 +42,15 @@ Urban complex systems and resilience from a dual carbon perspective
 * Urban computing and environmental modeling. Key focuses include fusion of multi-source spatio-temporal geospatial data, assessment of urban infrastructure and 3D urban morphology, modeling of multi-scale human activities and sustainable interactions with the urban environment. -->
 
 
+Cooperative Institutions
+====== 
+
+- [EOS Department](https://www.itc.nl/about-itc/scientific-departments/earth-observation-science/), [ITC](https://www.itc.nl/), [Univerisy of Twente](https://www.utwente.nl/en/)
+- [Geomatics Group](https://iiw.kuleuven.be/onderzoek/geomatics/home), [Faculty of Engineering Technology](https://iiw.kuleuven.be/english/index.html), [KU Leuven](https://www.kuleuven.be/english/kuleuven)
+- [3D geoinformation Group](https://3d.bk.tudelft.nl/), [TU Delft](https://www.tudelft.nl/en/)
+- [Digital Terrain Analysis Group](http://schools.njnu.edu.cn/geog/person/guoan-tang), [School of Geography](http://schools.njnu.edu.cn/geog/), [Nanjing Normal University](https://en.njnu.edu.cn/)
+
+
 Grant
 ======
 * 	***PI***, "Research on Large-Scale Urban Building Vector Modeling Based on Deep Generative Models", National Natural Science Foundation of China Youth Fund, 01/2025 - 12/2027
