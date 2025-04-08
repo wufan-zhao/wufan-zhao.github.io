@@ -15,6 +15,8 @@ author_profile: true
   Research fields: Point cloud processing and foundation model.
 - **[Yunlei Su](https://suyunlei.github.io/homepage/)** (since Jan. 2025), MSc from National University of Singapore. Pre Front-end Engineer at CSCI.\\
   Research fields: Digital Twin City and HCI, 3D visualization, human-centric urban design.
+- **Jing Ou** (since Sep. 2025), MEng at Chongqing University.\\
+Research fields: 3D vision，3D city localization and reconstruction.
 - **[Liang Zeng (PhD student @KULeuven, co-supervisor)](https://iiw.kuleuven.be/onderzoek/geomatics/people/00159796)** (since Oct. 2022), MSc from TU Delft.\\
   Research fields: Self-supervised learning, computer vision, multi-modal remote sensing processing.
 - **[Suzanna Cuypers (PhD student @KULeuven, co-supervisor)](https://iiw.kuleuven.be/onderzoek/geomatics/people/00130472)** (since Oct. 2022), MSc from KU Leuven.\\
@@ -62,19 +64,6 @@ Research fields: 3D Scene Generation & Computer vision
   <!-- Research fields: Urban design, generative AI, spatial analysis. -->
 
 
-**_Visiting Scholars_**
-- **[Dr. Shaoqing Dai](https://gisersqdai.top/mycv/)**, Assistant research fellow at Wuhan University, PhD from ITC University of Twente.\\
-  Research fields: Spatial-temporal data analysis, geo-health, spatial statistics.
-- **[Jin Huang](https://yidahuang.github.io/)**, PhD candidate at TUDelft 3D Geoinformation Group.\\
-  Research fields: 3D city reconstruction, computer graphics.
-<!-- - **[Dr. Cai Wu](https://wucai.me/)**, PhD from ITC University of Twente.\\
-  Research fields: GIS, urban morphology and urban design. -->
-<!-- - **[Dr. Xianwei Lv](https://jsjytx.neuq.edu.cn/info/1037/6198.htm)**, Lecturer at Northeastern University at Qinhuangdao, School of Computer and Communication Engineering. \\
-Research fields: Remote sensing images interpretation, image segmentation, parallel computing. -->
-- **Ruqiao Jiang**, Deputy Dean of [SIPSG Smart City Research Institute](https://www.dpark.com.cn/#/home). \\
-  Research fields: Big geodata processing.
-
-
 **_Visiting Students_**
 - **Zhiyuan Xu** (since Apr. 2024), PhD student at University of Bristol. BSc from Harbin University of Science and Technology and MSc from University of Bristol. Pre Back‑end Engineer at Huawei and ByteDance.\\
 Research fields: Remote sensing image analysis, NLP and machine learning.
@@ -93,6 +82,20 @@ Research fields: software development, generative AI.
   Research fields: UAV remote sensing, environmental monitoring and LULC  classification.
 - **[Zenghui Liu](https://zenghuiliu.space/)** (since Apr. 2025), MEng at Tianjin University.\\
 Research fields: Impact assessment of climate adaptation technologies,Urban-Building-Human Nexus.
+
+
+**_Visiting Scholars_**
+- **[Dr. Shaoqing Dai](https://gisersqdai.top/mycv/)**, Assistant research fellow at Wuhan University, PhD from ITC University of Twente.\\
+  Research fields: Spatial-temporal data analysis, geo-health, spatial statistics.
+- **[Jin Huang](https://yidahuang.github.io/)**, PhD candidate at TUDelft 3D Geoinformation Group.\\
+  Research fields: 3D city reconstruction, computer graphics.
+<!-- - **[Dr. Cai Wu](https://wucai.me/)**, PhD from ITC University of Twente.\\
+  Research fields: GIS, urban morphology and urban design. -->
+<!-- - **[Dr. Xianwei Lv](https://jsjytx.neuq.edu.cn/info/1037/6198.htm)**, Lecturer at Northeastern University at Qinhuangdao, School of Computer and Communication Engineering. \\
+Research fields: Remote sensing images interpretation, image segmentation, parallel computing. -->
+- **Ruqiao Jiang**, Deputy Dean of [SIPSG Smart City Research Institute](https://www.dpark.com.cn/#/home). \\
+  Research fields: Big geodata processing.
+
 
 ## Alumni
 
