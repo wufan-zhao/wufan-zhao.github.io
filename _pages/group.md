@@ -80,8 +80,8 @@ Research fields: Green buildings and machine learning in built environment.
 Research fields: software development, generative AI.
 - **Xiaoyu Li** (since Sep. 2025), BSc from Beijing Forestry University.\\
   Research fields: UAV remote sensing, environmental monitoring and LULC  classification.
-- **[Zenghui Liu](https://zenghuiliu.space/)** (since Apr. 2025), MEng at Tianjin University.\\
-Research fields: Impact assessment of climate adaptation technologies,Urban-Building-Human Nexus.
+<!-- - **[Zenghui Liu](https://zenghuiliu.space/)** (since Apr. 2025), MEng at Tianjin University.\\
+Research fields: Impact assessment of climate adaptation technologies,Urban-Building-Human Nexus. -->
 
 
 **_Visiting Scholars_**
