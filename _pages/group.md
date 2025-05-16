@@ -69,8 +69,7 @@ Research fields: 3D Scene Generation & Computer vision
 Research fields: Remote sensing image analysis, NLP and machine learning.
 - **Liwei Zou** (since Feb. 2025), MSc from School of Geography and Planning, Sun Yat-sen University.\\
   Research fields: Multimodal data mining, Disaster analysis, Urban resilience.
-- **Daxu Wei** (since Jun. 2024), MSc from Bartlett School of
-  Architecture, University College London.\\ 
+- **Daxu Wei** (since Jun. 2024), MSc from Bartlett School of Architecture, University College London.\\ 
   Research fields: Urban design, generative AI, spatial analysis.
 - **Honglin Ren** (since Aug. 2024), MSc at The University of Hong Kong, BSc from Southeast University. \\
 Research fields: Green buildings and machine learning in built environment.
