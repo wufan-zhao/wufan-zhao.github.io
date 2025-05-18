@@ -19,6 +19,7 @@ Scan-to-BIM/CIM: Digital Innovations and Applications, 2024
 Membership
 ======
 * ISPRS Commission IV, WG 9 on Digital Twins
+* ACM SIGSPATIAL China Chapter
 * ISDE Young Scientist Innovation Network [ISDE-YSIN](https://www.digitalearth-isde.org/) 
 * University of Twente, Digital Twin GeoHUB (DTG)
 
@@ -31,10 +32,13 @@ Invited talks
 
 Reviewer
 ======
-* ISPRS Journal of Photogrammetry and Remote Sensing
-* International Journal of Applied Earth Observation and Geoinformation
-* IEEE Transactions on Neural Networks and Learning Systems
-* IEEE Transactions on Geoscience and Remote Sensing
-* IEEE Geoscience and Remote Sensing Letters
-* Transactions in GIS
-
+* ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS Journal)
+* Remote Sensing of Environment (RSE)
+* International Journal of Applied Earth Observation and Geoinformation (JAG)
+* IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+* IEEE Transactions on Geoscience and Remote Sensing (TGRS)
+* Computers Environment and Urban Systems (CEUS)
+* IEEE Geoscience and Remote Sensing Letters (GRSL)
+* International Journal of Digital Earth (IJDE)
+* Transactions in GIS (TGIS)
+* Conferences (ACM Multimedia, IGARSS, ISPRS conferences)
