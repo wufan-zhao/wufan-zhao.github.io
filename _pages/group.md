@@ -68,7 +68,7 @@ Research fields: 3D Scene Generation & Computer vision
 
 <!-- **_Bachelor Students_**
 - **Bowen Feng** (since Sep. 2024) \\
-  <!-- Research fields: Urban design, generative AI, spatial analysis. --> -->
+  <!-- Research fields: Urban design, generative AI, spatial analysis. -->
 
 
 **_Visiting Students_**

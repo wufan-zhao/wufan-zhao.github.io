@@ -33,7 +33,7 @@ Analyzing spatial factors and exploring spatial associations based on the concep
 
 Selected Publications 
 ======
-* Hua, T., Jiang, L., Chen, Y., Zhao, W.*, 2025. Sat2City: 3D City Generation from A Single Satellite Image with Cascaded Latent Diffusion. In Proceedings of the IEEE/CVF international conference on computer vision.
+* Hua, T., Jiang, L., Chen, Y., **Zhao, W.***, 2025. Sat2City: 3D City Generation from A Single Satellite Image with Cascaded Latent Diffusion. In Proceedings of the IEEE/CVF international conference on computer vision (ICCV25, accepted).
 * Hong, Z., Wu, T., Xu, Z., **Zhao, W.***, 2025. [Depth2Elevation: Scale Modulation with Depth Anything Model for Single-view Remote Sensing Image Height Estimation](https://ieeexplore.ieee.org/abstract/document/10978076). IEEE Transactions on Geoscience and Remote Sensing 1–1. (IF 7.5)
 * Lv, W., Lei, Y., Liu, F., Yan, J., Song, Y. and **Zhao, W.***, 2025. [gdverse: An R Package for Spatial Stratified Heterogeneity Family](https://onlinelibrary.wiley.com/doi/10.1111/tgis.70032). Transactions in GIS, 29(2), pp.e70032. (IF 2.1)
 * **Zhao, W.**, Persello, C., Lv, X., Stein, A. and Vergauwen, M., 2024. [Vectorizing planar roof structure from very high resolution remote sensing images using transformers](https://www.tandfonline.com/doi/full/10.1080/17538947.2023.2292637). International Journal of Digital Earth, 17(1), pp.1-15. (IF: 5.1)
