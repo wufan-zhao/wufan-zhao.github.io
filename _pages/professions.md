@@ -25,6 +25,7 @@ Membership
 
 Invited talks
 ======
+* Department of Architecture, National University of Singapore, Jun. 5th, Singapore
 * Institute for Environmental Studies, VU Amsterdam, Oct 28th 2022, the Netherlands
 * MIT City Senseable Lab, Aug 2nd 2022, U.S.
 * AI-driven methods in support of Digital Twins, Jan 26th 2022, the Netherlands
@@ -38,7 +39,9 @@ Reviewer
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 * IEEE Transactions on Geoscience and Remote Sensing (TGRS)
 * Computers Environment and Urban Systems (CEUS)
+* Geo-spatial Information Science (GSIS)
 * IEEE Geoscience and Remote Sensing Letters (GRSL)
 * International Journal of Digital Earth (IJDE)
 * Transactions in GIS (TGIS)
+* GeoInformatica
 * Conferences (ACM Multimedia, IGARSS, ISPRS conferences)
