@@ -35,7 +35,7 @@ News
 ======
 <!-- * The Photogrammetric Engineering & Remote Sensing [(PE&RS)](https://my.asprs.org/pers) journal, established in 1935 by the American Society for Photogrammetry and Remote Sensing (ASPRS), cordially invites esteemed researchers and scholars to submit high-quality manuscripts.  -->
 
-* **[2025.07]**Join the UGOD Summer AI Symposium on July 9, 2025, at HKUST (Guangzhou). With the theme "Intersecting Futures: Human-Centered AI for Smart Cities," professors from UGOD and other fields will give special reports on topics including Urban computing and cognition, Urban Mapping, Modeling and Visualization, Urban Design and Planning, and AI in Urban Systems: Economics, Society, and Environment. [Details](https://mp.weixin.qq.com/s/_J4I0u5Gbo-ZW9ag9yDUmQ)
+* **[2025.07]** Join us at the UGOD Summer AI Symposium on July 9, 2025, at HKUST (Guangzhou). With the theme "Intersecting Futures: Human - Centered AI for Smart Cities," professors from UGOD and other thrusts will give presentations on topics including Urban Computing and Cognition, Urban Mapping, Modeling and Visualization, Urban Design and Planning, and AI in Urban Systems.[More details](https://mp.weixin.qq.com/s/_J4I0u5Gbo-ZW9ag9yDUmQ)
 
 * **[2025.06]** We have recently initiated a special issue on "Semantic Understanding of Multi-modal Remote Sensing Data" in The Photogrammetric Engineering & Remote Sensing [(PE&RS)](https://my.asprs.org/pers) on an invitation basis. We cordially invite esteemed researchers and scholars to submit high-quality manuscripts. 
 
