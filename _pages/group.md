@@ -80,6 +80,9 @@ Research fields: 3D Scene Generation & Computer vision
 Research fields: software development, generative AI.
 - **Yongli Tang** (since June. 2025), MSc from Lanzhou University.\\
   Research fields: Built environment, urban heat islands and urban greenery.
+- **Hongyu Ye** (since Jul. 2025), MSc from TU Delft\\
+  Research fields: Spatial big data applications and 3D city modelling and simulation.
+
 
 <!-- - **[Zenghui Liu](https://zenghuiliu.space/)** (since Apr. 2025), MEng at Tianjin University.\\
 Research fields: Impact assessment of climate adaptation technologies,Urban-Building-Human Nexus. -->
@@ -96,6 +99,8 @@ Research fields: Impact assessment of climate adaptation technologies,Urban-Buil
 Research fields: Remote sensing images interpretation, image segmentation, parallel computing. -->
 - **Ruqiao Jiang**, Deputy Dean of [SIPSG Smart City Research Institute](https://www.dpark.com.cn/#/home). \\
   Research fields: Big geodata processing.
+- **Xijing Huang** (since July. 2025), VP/Engineer fellow at Mengzi Digital Industry Investment and Development Co., MSW from Beijing Normal-HongKong Baptist University.\\
+  Research fields: Multi-agent social simulation, Agent-Based Modeling, Computational social science.
 
 
 ## Alumni
