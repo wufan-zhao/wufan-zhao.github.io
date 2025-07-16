@@ -17,12 +17,6 @@ Display of Research Results
       Your browser does not support the video tag.
     </video>
 </div>
-<div style="text-align: center;">
-    <video width="50%" controls>
-      <source src="../images/3dsingle.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-</div>
 
 ### · 3D Scene Reconstruction of HKUST-GZ using 3D Gaussian splatting
 
