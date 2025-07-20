@@ -6,7 +6,9 @@ author_profile: true
 
 
 ## Group Members
-**_postdoc Researcher-**
+
+**_postdoc Researcher_**
+
 - **Zhuoxiao Li** (since Jul. 2025), PhD from University of Liverpool\\
   Research fields: 3D Reconstruction, Gaussian Splatting. 
 
