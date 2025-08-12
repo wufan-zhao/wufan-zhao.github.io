@@ -20,6 +20,8 @@ Display of Research Results
 
 ### · 3D VR Scene in Different LODs
 
+A study where participants interact with VR scenes at different Levels of Detail (LOD), collecting interaction data to explore the relationship between human behavior and LOD fidelity. The research investigates how varying levels of visual complexity influence user perception, navigation patterns, and decision-making in virtual environments.
+
 <div style="text-align: center;">
     <video width="50%" controls>
       <source src="../images/vrdemo.mp4" type="video/mp4">
