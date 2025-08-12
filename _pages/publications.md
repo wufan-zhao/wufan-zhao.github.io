@@ -18,6 +18,15 @@ Display of Research Results
     </video>
 </div>
 
+### · 3D VR Scene in Different LODs
+
+<div style="text-align: center;">
+    <video width="50%" controls>
+      <source src="../images/vrdemo.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+</div>
+
 ### · 3D Scene Reconstruction of HKUST-GZ using 3D Gaussian splatting
 
 <div style="text-align: center;">
