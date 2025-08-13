@@ -42,28 +42,21 @@ Research fields: 3D vision，3D city localization and reconstruction.
   Research fields: Remote sensing image analysis, time series analysis, machine learning.
 - **Yumiao Xiao** (since Sep. 2024), BSc from Beijing Normal University.\\
   Research fields: Terrestrial carbon cycle, spatio-temporal data analysis, plant ecology.
-- **Hongrui Xiao** (since Feb. 2025), BSc from Queen's University Belfast.\\
-  Research fields: GeoAI, Remote Sensing, Urban Economy.
+<!-- - **Hongrui Xiao** (since Feb. 2025), BSc from Queen's University Belfast.\\
+  Research fields: GeoAI, Remote Sensing, Urban Economy. -->
 - **Chenyuan Zhu** (since Aug.- 2024), China University of Mining & Technology, Beijing.\\
   Research fields: Remote sensing image analysis and 3D modeling.
-- **Feiya Shu** (since Sep. 2025), BSc from China University of Mining and Technology.\\
-Research fields: Multimodal remote sensing, land cover segmentation.
+<!-- - **Feiya Shu** (since Sep. 2025), BSc from China University of Mining and Technology.\\
+Research fields: Multimodal remote sensing, land cover segmentation. -->
 
 
 **_Research Assistant_**
-- **[Zongrong Li](https://jasper0122.github.io/
-)** (since Jun. 2024), MSc at the University of Southern California, soon to be enrolled as a PhD student at Texas A&M University.\\
-  Research fields: GeoAI, CityLLM, Spatial Economics & Finance.
 - **Zhongcheng Hong** (since Jul. 2024), MSc from South China University of Technology, soon to be enrolled as a PhD student at Auckland University of Technology.\\
   Research fields: 3D reconstruction & Self-supervised visual task.
-- **Rui ZHANG** (since Dec. 2024), MSc from Southern University of Science and Technology. \\
-Research fields: 3D vision & Multimodal learning.
-- **Yinrui Ren** (since Aug. 2024), MSc at South China Normal University.\\
-Research fields: Deep learning and remote sensing image analysis.
 - **[Wenbo Lv](https://spatlyu.github.io/)** (since Aug. 2024), BSc at Shaanxi Normal University.\\
 Research fields: Spatiotemporal statistics, Remote sensing image processing.
-- **Ke Xu** (since Dec. 2024), BSc from Dalian University of Technology.\\
-Research fields: 3D Scene Generation & Computer vision
+- **Yinrui Ren** (since Aug. 2024), MSc at South China Normal University.\\
+Research fields: Deep learning and remote sensing image analysis.
 - **Shuxian Shi** (since Jul. 2025), MSc from East China Normal University.\\
   Research fields: Remote sensing applications and urban environmental monitoring.
 - **Zhecheng Shi** (since Jul. 2025), BSc at Northeastern University.\\
@@ -109,9 +102,16 @@ Research fields: Remote sensing images interpretation, image segmentation, paral
 
 
 ## Alumni
+- **[Zongrong Li](https://jasper0122.github.io/
+)** (since Jun. 2024), MSc at the University of Southern California, enrolled as a PhD student at Texas A&M University.\\
+  Research fields: GeoAI, CityLLM.
+- **Ke Xu** (since Dec. 2024-Jul. 2025), BSc from Dalian University of Technology, enrolled as a PhD student at HKUST.\\
+Research fields: 3D Scene Generation & Computer vision
+- **Rui ZHANG** (Dec. 2024- Jul. 2025), MSc from Southern University of Science and Technology, enrolled as a PhD student at Aarhus Universitet.\\
+Research fields: 3D vision & Multimodal learning.
 - **Guanyu Hou** (Jun.- Dec. 2024), MSc from Chinese Academy of Sciences, soon to be enrolled as a PhD student at Texas A&M University.\\
   Research fields: Remote Sensing, urbanization and ecosystem.
-- **Zhiyuan Xu** (Apr.- Jul. 2024), PhD student at University of Bristol. BSc from Harbin University of Science and Technology and MSc from University of Bristol. Pre Back‑end Engineer at Huawei and ByteDance.\\
+- **Zhiyuan Xu** (Apr.- Jul. 2024), enrolled as PhD student at University of Bristol. BSc from Harbin University of Science and Technology and MSc from University of Bristol. Pre Back‑end Engineer at Huawei and ByteDance.\\
   Research fields: Remote sensing image analysis, NLP and machine learning.
 - **Honglin Ren** (Aug.- Jan. 2024), MSc at The University of Hong Kong, BSc from Southeast University. \\
 Research fields: Green buildings and machine learning in built environment.
