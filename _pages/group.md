@@ -72,8 +72,6 @@ Research fields: Deep learning and remote sensing image analysis.
 **_Visiting Students_**
 - **Xiaoyu Li** (since Sep. 2025), BSc from Beijing Forestry University.\\
   Research fields: UAV remote sensing, environmental monitoring and LULC classification.
-- **Hongrong Wang** (since Dec. 2024),  BSc from Guangdong University of Technology.\\
-Research fields: software development, generative AI.
 - **Yongli Tang** (since June. 2025), MSc from Lanzhou University.\\
   Research fields: Built environment, urban heat islands and urban greenery.
 - **Hongyu Ye** (since Jul. 2025), MSc from TU Delft\\
@@ -111,6 +109,8 @@ Research fields: 3D vision & Multimodal learning.
   Research fields: Remote Sensing, urbanization and ecosystem.
 - **Daxu Wei** (since Jun. 2024), MSc from Bartlett School of Architecture, University College London.\\ 
   Research fields: Urban design, generative AI, spatial analysis.
+- **Hongrong Wang** (since Dec. 2024),  BSc from Guangdong University of Technology.\\
+Research fields: software development, generative AI.
 - **Zhiyuan Xu** (Apr.- Jul. 2024), enrolled as PhD student at University of Bristol. BSc from Harbin University of Science and Technology and MSc from University of Bristol. Pre Back‑end Engineer at Huawei and ByteDance.\\
   Research fields: Remote sensing image analysis, NLP and machine learning.
 - **Honglin Ren** (Aug.- Jan. 2024), MSc at The University of Hong Kong, BSc from Southeast University. \\
