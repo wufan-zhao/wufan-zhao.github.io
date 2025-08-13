@@ -51,6 +51,9 @@ Research fields: Multimodal remote sensing, land cover segmentation. -->
 
 
 **_Research Assistant_**
+- **[Zongrong Li](https://jasper0122.github.io/
+)** (since Jun. 2024), MSc at the University of Southern California, enrolled as a PhD student at Texas A&M University.\\
+  Research fields: GeoAI, CityLLM.
 - **Zhongcheng Hong** (since Jul. 2024), MSc from South China University of Technology, soon to be enrolled as a PhD student at Auckland University of Technology.\\
   Research fields: 3D reconstruction & Self-supervised visual task.
 - **[Wenbo Lv](https://spatlyu.github.io/)** (since Aug. 2024), BSc at Shaanxi Normal University.\\
@@ -98,24 +101,21 @@ Research fields: Remote sensing images interpretation, image segmentation, paral
 
 
 ## Alumni
-- **[Zongrong Li](https://jasper0122.github.io/
-)** (since Jun. 2024), MSc at the University of Southern California, enrolled as a PhD student at Texas A&M University.\\
-  Research fields: GeoAI, CityLLM.
 - **Ke Xu** (since Dec. 2024-Jul. 2025), BSc from Dalian University of Technology, enrolled as a PhD student at HKUST.\\
-Research fields: 3D Scene Generation & Computer vision
+<!-- Research fields: 3D Scene Generation & Computer vision -->
 - **Rui ZHANG** (Dec. 2024- Jul. 2025), MSc from Southern University of Science and Technology, enrolled as a PhD student at Aarhus Universitet.\\
-Research fields: 3D vision & Multimodal learning.
+<!-- Research fields: 3D vision & Multimodal learning. -->
 - **Guanyu Hou** (Jun.- Dec. 2024), MSc from Chinese Academy of Sciences, soon to be enrolled as a PhD student at Texas A&M University.\\
-  Research fields: Remote Sensing, urbanization and ecosystem.
-- **Daxu Wei** (since Jun. 2024), MSc from Bartlett School of Architecture, University College London.\\ 
-  Research fields: Urban design, generative AI, spatial analysis.
-- **Hongrong Wang** (since Dec. 2024),  BSc from Guangdong University of Technology.\\
-Research fields: software development, generative AI.
+  <!-- Research fields: Remote Sensing, urbanization and ecosystem. -->
+- **Daxu Wei** (Jun.- Dec. 2024), MSc from Bartlett School of Architecture, University College London.\\ 
+  <!-- Research fields: Urban design, generative AI, spatial analysis. -->
+- **Hongrong Wang** (since Jan. 2025- Jun. 2025),  BSc from Guangdong University of Technology.\\
+<!-- Research fields: software development, generative AI. -->
 - **Zhiyuan Xu** (Apr.- Jul. 2024), enrolled as PhD student at University of Bristol. BSc from Harbin University of Science and Technology and MSc from University of Bristol. Pre Back‑end Engineer at Huawei and ByteDance.\\
-  Research fields: Remote sensing image analysis, NLP and machine learning.
+  <!-- Research fields: Remote sensing image analysis, NLP and machine learning. -->
 - **Honglin Ren** (Aug.- Jan. 2024), MSc at The University of Hong Kong, BSc from Southeast University. \\
-Research fields: Green buildings and machine learning in built environment.
+<!-- Research fields: Green buildings and machine learning in built environment. -->
 - **[Juran Zhang](https://www.linkedin.com/in/juran-zhang)** (Mar.- May 2024), MSc from UC Davis, and pre Team Lead at Amazon. \\
-  Research fields: Remote sensing data processing, distributed computing.
+  <!-- Research fields: Remote sensing data processing, distributed computing. -->
 - **Taiyu Zhao** (Jun.-Aug. 2024), BSc from Wuhan University, MSc at University of Cambridge\\
-  Research fields: Urban Climate & Spatial Analysis.
+  <!-- Research fields: Urban Climate & Spatial Analysis. -->
