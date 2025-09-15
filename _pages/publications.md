@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /publications/index.html
+permalink: publications/index.html
 author_profile: true
 ---
 {% include base_path %}

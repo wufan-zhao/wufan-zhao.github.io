@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /group/index.html
+permalink: group/index.html
 author_profile: true
 ---
 

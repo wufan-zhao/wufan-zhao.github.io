@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /professions/
+permalink: professions/index.html
 author_profile: true
 ---
 
