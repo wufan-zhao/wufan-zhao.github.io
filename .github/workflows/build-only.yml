@@ -1,7 +1,7 @@
 name: Build Jekyll Site Only (No Deploy)
 
 on:
-  workflow_dispatch:  # 允许手动触发
+  workflow_dispatch:  # Allow manual trigger
 
 jobs:
   build:
