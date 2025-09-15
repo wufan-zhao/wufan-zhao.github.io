@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /publications/
+permalink: /publications/index.html
 author_profile: true
 ---
 {% include base_path %}
@@ -13,7 +13,7 @@ Display of Research Results
 
 <div style="text-align: center;">
     <video width="50%" controls>
-      <source src="../images/3dsingle.mp4" type="video/mp4">
+      <source src="/images/3dsingle.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
 </div>
@@ -24,7 +24,7 @@ A study where participants interact with VR scenes at different Levels of Detail
 
 <div style="text-align: center;">
     <video width="50%" controls>
-      <source src="../images/vrdemo.mp4" type="video/mp4">
+      <source src="/images/vrdemo.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
 </div>
@@ -33,7 +33,7 @@ A study where participants interact with VR scenes at different Levels of Detail
 
 <div style="text-align: center;">
     <video width="50%" controls>
-      <source src="../images/3drebuild.mp4" type="video/mp4">
+      <source src="/images/3drebuild.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
 </div>
@@ -46,7 +46,7 @@ Analyzing spatial factors and exploring spatial associations based on the concep
 
 <p align="center">
     <a href="https://CRAN.R-project.org/package=gdverse">
-        <img src="../images/gdverse_figure1.jpg" style="width: 60%;">
+        <img src="/images/gdverse_figure1.jpg" style="width: 60%;">
     </a>
 </p>
 
