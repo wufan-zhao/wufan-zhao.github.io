@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /index.html
 title: "Welcome to Dr. Zhao’s Homepage"
 excerpt: "About me"
 author_profile: true
