@@ -42,6 +42,8 @@ Research fields: 3D vision，3D city localization and reconstruction.
   Research fields: Remote sensing image analysis, time series analysis, machine learning.
 - **Yumiao Xiao** (since Sep. 2024), BSc from Beijing Normal University.\\
   Research fields: Terrestrial carbon cycle, spatio-temporal data analysis, plant ecology.
+- **Feiya Shu** (since Sep. 2025), BSc from China University of Mining and Technology.\\
+Research fields: 3D Point Clouds, Multimodal Remote Sensing.
 <!-- - **Hongrui Xiao** (since Feb. 2025), BSc from Queen's University Belfast.\\
   Research fields: GeoAI, Remote Sensing, Urban Economy. -->
 - **Chenyuan Zhu** (since Aug.- 2024), China University of Mining & Technology, Beijing.\\
@@ -66,6 +68,13 @@ Research fields: Deep learning and remote sensing image analysis.
   Research fields: Computer vision & Point cloud processing
 - **Bingchen Li** (since Mar. 2025), MSc from University of Southern California.\\
  Research fields: Urban Economics & Regional Economics.
+- **Chunliang Hua** (since Oct. 2025), MSc at Southeast University. \\
+Research fields: GeoAI, Autonomous Drone Planning.
+- **Qican Weng** (since Oct. 2025), MSc at University College London
+Research fields: Spatial science, GeoAI, Visualization
+
+
+
 
 <!-- **_Bachelor Students_**
 - **Bowen Feng** (since Sep. 2024) \\
@@ -79,6 +88,11 @@ Research fields: Deep learning and remote sensing image analysis.
   Research fields: Built environment, urban heat islands and urban greenery.
 - **Hongyu Ye** (since Jul. 2025), MSc from TU Delft\\
   Research fields: Spatial big data applications and 3D city modelling and simulation.
+haoran
+- **Haoran Gong** (since Aug. 2025), MSc at Xi'an Jiaotong University.
+Research fields: computer vision, point clouds, and 3D reconstruction.
+- **Sihan Li** (since Oct. 2025), BEng at Lanzhou University.
+Research fields: GIS, Information Visualization. 
 
 
 <!-- - **[Zenghui Liu](https://zenghuiliu.space/)** (since Apr. 2025), MEng at Tianjin University.\\
@@ -88,8 +102,6 @@ Research fields: Impact assessment of climate adaptation technologies,Urban-Buil
 **_Visiting Scholars_**
 - **[Dr. Shaoqing Dai](https://gisersqdai.top/mycv/)**, Assistant research fellow at Wuhan University, PhD from ITC University of Twente.\\
   Research fields: Spatial-temporal data analysis, geo-health, spatial statistics.
-- **[Jin Huang](https://yidahuang.github.io/)**, PhD candidate at TUDelft 3D Geoinformation Group.\\
-  Research fields: 3D city reconstruction, computer graphics.
 <!-- - **[Dr. Cai Wu](https://wucai.me/)**, PhD from ITC University of Twente.\\
   Research fields: GIS, urban morphology and urban design. -->
 <!-- - **[Dr. Xianwei Lv](https://jsjytx.neuq.edu.cn/info/1037/6198.htm)**, Lecturer at Northeastern University at Qinhuangdao, School of Computer and Communication Engineering. \\
@@ -106,9 +118,7 @@ Research fields: Remote sensing images interpretation, image segmentation, paral
 - **Rui ZHANG** (Dec. 2024- Jul. 2025), MSc from Southern University of Science and Technology, enrolled as a PhD student at Aarhus Universitet.\\
 <!-- Research fields: 3D vision & Multimodal learning. -->
 - **Guanyu Hou** (Jun.- Dec. 2024), MSc from Chinese Academy of Sciences, soon to be enrolled as a PhD student at Texas A&M University.\\
-  <!-- Research fields: Remote Sensing, urbanization and ecosystem. -->
-- **Daxu Wei** (Jun.- Dec. 2024), MSc from Bartlett School of Architecture, University College London.\\ 
-  <!-- Research fields: Urban design, generative AI, spatial analysis. -->
+
 - **Hongrong Wang** (since Jan. 2025- Jun. 2025),  BSc from Guangdong University of Technology.\\
 <!-- Research fields: software development, generative AI. -->
 - **Zhiyuan Xu** (Apr.- Jul. 2024), enrolled as PhD student at University of Bristol. BSc from Harbin University of Science and Technology and MSc from University of Bristol. Pre Back‑end Engineer at Huawei and ByteDance.\\
@@ -117,5 +127,3 @@ Research fields: Remote sensing images interpretation, image segmentation, paral
 <!-- Research fields: Green buildings and machine learning in built environment. -->
 - **[Juran Zhang](https://www.linkedin.com/in/juran-zhang)** (Mar.- May 2024), MSc from UC Davis, and pre Team Lead at Amazon. \\
   <!-- Research fields: Remote sensing data processing, distributed computing. -->
-- **Taiyu Zhao** (Jun.-Aug. 2024), BSc from Wuhan University, MSc at University of Cambridge\\
-  <!-- Research fields: Urban Climate & Spatial Analysis. -->
