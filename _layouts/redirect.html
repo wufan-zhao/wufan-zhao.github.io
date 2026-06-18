@@ -1,0 +1,17 @@
+{% assign redirect_target = page.redirect_to | default: "https://ai4dcity.com/" %}
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Redirecting...</title>
+    <link rel="canonical" href="{{ redirect_target | escape }}">
+    <meta name="robots" content="noindex, follow">
+    <meta http-equiv="refresh" content="0; url={{ redirect_target | escape }}">
+    <script>
+      window.location.replace("{{ redirect_target | escape }}");
+    </script>
+  </head>
+  <body>
+    <p>Redirecting to <a href="{{ redirect_target | escape }}">{{ redirect_target | escape }}</a>.</p>
+  </body>
+</html>

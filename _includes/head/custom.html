@@ -1,5 +1,14 @@
 {% include base_path %}
 
+<script>
+  (function () {
+    var destination = "https://ai4dcity.com/";
+    if (window.location.hostname === "wufan-zhao.github.io") {
+      window.location.replace(destination);
+    }
+  }());
+</script>
+
 <!-- start custom head snippets -->
 
 <link rel="apple-touch-icon" sizes="57x57" href="{{ base_path }}/images/apple-touch-icon-57x57.png?v=M44lzPylqQ">
